@@ -134,3 +134,332 @@
 15:20 30-12-2020-INFO -com.bank.main.bankMain:2) Log in as Employee
 15:20 30-12-2020-INFO -com.bank.main.bankMain:3) Exit bank app
 15:20 30-12-2020-INFO -com.bank.main.bankMain:Thank you for banking with us. Have a good day.
+14:04 04-01-2021-INFO -com.bank.main.bankMain:Welcome to Jason's Bank app V1.0
+14:04 04-01-2021-INFO -com.bank.main.bankMain:Log In Menu
+14:04 04-01-2021-INFO -com.bank.main.bankMain:---------------------------------------
+14:04 04-01-2021-INFO -com.bank.main.bankMain:
+
+14:04 04-01-2021-INFO -com.bank.main.bankMain:1) Log in as Customer
+14:04 04-01-2021-FATAL-com.bank.main.bankMain:yoyo
+14:04 04-01-2021-INFO -com.bank.main.bankMain:2) Log in as Employee
+14:04 04-01-2021-INFO -com.bank.main.bankMain:3) Exit bank app
+14:49 04-01-2021-INFO -com.bank.main.bankMain:Welcome to Jason's Bank app V1.0
+14:49 04-01-2021-INFO -com.bank.main.bankMain:Log In Menu
+14:49 04-01-2021-INFO -com.bank.main.bankMain:---------------------------------------
+14:49 04-01-2021-INFO -com.bank.main.bankMain:
+
+14:49 04-01-2021-INFO -com.bank.main.bankMain:1) Log in as Customer
+14:49 04-01-2021-INFO -com.bank.main.bankMain:2) Log in as Employee
+14:49 04-01-2021-INFO -com.bank.main.bankMain:3) Exit bank app
+14:49 04-01-2021-INFO -com.bank.main.bankMain:Invalid Log In option. Please enter a valid Log In option.
+14:49 04-01-2021-INFO -com.bank.main.bankMain:Log In Menu
+14:49 04-01-2021-INFO -com.bank.main.bankMain:---------------------------------------
+14:49 04-01-2021-INFO -com.bank.main.bankMain:
+
+14:49 04-01-2021-INFO -com.bank.main.bankMain:1) Log in as Customer
+14:49 04-01-2021-INFO -com.bank.main.bankMain:2) Log in as Employee
+14:49 04-01-2021-INFO -com.bank.main.bankMain:3) Exit bank app
+14:49 04-01-2021-INFO -com.bank.main.bankMain:Invalid Log In option. Please enter a valid Log In option.
+14:49 04-01-2021-INFO -com.bank.main.bankMain:Log In Menu
+14:49 04-01-2021-INFO -com.bank.main.bankMain:---------------------------------------
+14:49 04-01-2021-INFO -com.bank.main.bankMain:
+
+14:49 04-01-2021-INFO -com.bank.main.bankMain:1) Log in as Customer
+14:49 04-01-2021-INFO -com.bank.main.bankMain:2) Log in as Employee
+14:49 04-01-2021-INFO -com.bank.main.bankMain:3) Exit bank app
+14:49 04-01-2021-INFO -com.bank.main.bankMain:Invalid Log In option. Please enter a valid Log In option.
+14:49 04-01-2021-INFO -com.bank.main.bankMain:Log In Menu
+14:49 04-01-2021-INFO -com.bank.main.bankMain:---------------------------------------
+14:49 04-01-2021-INFO -com.bank.main.bankMain:
+
+14:49 04-01-2021-INFO -com.bank.main.bankMain:1) Log in as Customer
+14:49 04-01-2021-INFO -com.bank.main.bankMain:2) Log in as Employee
+14:49 04-01-2021-INFO -com.bank.main.bankMain:3) Exit bank app
+15:01 04-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+15:01 04-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+15:01 04-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+15:01 04-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+15:01 04-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Customer
+15:01 04-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Employee
+15:01 04-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+18:08 06-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+18:08 06-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+18:08 06-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+18:08 06-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+18:08 06-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+18:08 06-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+18:08 06-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+18:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+18:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+18:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+18:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+18:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+18:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+18:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+18:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:Invalid menu choice please try again.
+18:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+18:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+18:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+18:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+18:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+18:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+18:18 06-01-2021-INFO -com.bank.main.bankMain:Logged in as employee
+18:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+18:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+18:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+18:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+18:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+18:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+18:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+18:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:Invalid menu choice please try again.
+18:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+18:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+18:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+18:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+18:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+18:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+18:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:Invalid menu choice please try again.
+18:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+18:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+18:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+18:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+18:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+18:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+18:20 06-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+18:20 06-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+18:20 06-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+18:20 06-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+18:20 06-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+18:20 06-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+18:20 06-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+18:20 06-01-2021-INFO -com.bank.main.bankMain:Logged in as employee
+18:20 06-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+18:20 06-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+18:20 06-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+18:20 06-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+18:20 06-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+18:20 06-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+18:20 06-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+18:20 06-01-2021-INFO -com.bank.main.bankMain:Please enter your username:
+18:20 06-01-2021-INFO -com.bank.main.bankMain:Please enter your password:
+18:20 06-01-2021-INFO -com.bank.dao.impl.LoginDAOImpl:java.lang.ClassNotFoundException: org.postgresql.Driver
+18:20 06-01-2021-INFO -com.bank.main.bankMain:com.bank.exception.BusinessException: internal error occured contact sysadmin
+18:28 06-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+18:28 06-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+18:28 06-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+18:28 06-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+18:28 06-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+18:28 06-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+18:28 06-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+18:28 06-01-2021-INFO -com.bank.main.bankMain:Please enter your username:
+18:28 06-01-2021-INFO -com.bank.main.bankMain:Please enter your password:
+18:28 06-01-2021-INFO -com.bank.dao.impl.LoginDAOImpl:java.lang.ClassNotFoundException: org.postgresql.Driver
+18:28 06-01-2021-INFO -com.bank.main.bankMain:com.bank.exception.BusinessException: internal error occured contact sysadmin
+18:32 06-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+18:32 06-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+18:32 06-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+18:32 06-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+18:32 06-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+18:32 06-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+18:32 06-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+18:32 06-01-2021-INFO -com.bank.main.bankMain:Please enter your username:
+18:32 06-01-2021-INFO -com.bank.main.bankMain:Please enter your password:
+18:32 06-01-2021-INFO -com.bank.dao.impl.LoginDAOImpl:java.lang.ClassNotFoundException: org.postgresql.Driver
+18:32 06-01-2021-INFO -com.bank.main.bankMain:com.bank.exception.BusinessException: internal error occured contact sysadmin
+18:37 06-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+18:37 06-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+18:37 06-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+18:37 06-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+18:37 06-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+18:37 06-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+18:37 06-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+18:37 06-01-2021-INFO -com.bank.main.bankMain:Please enter your username:
+18:37 06-01-2021-INFO -com.bank.main.bankMain:Please enter your password:
+18:37 06-01-2021-INFO -com.bank.main.bankMain:com.bank.exception.BusinessException: No combination of inputted username and password found
+18:38 06-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+18:38 06-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+18:38 06-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+18:38 06-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+18:38 06-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+18:38 06-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+18:38 06-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+18:38 06-01-2021-INFO -com.bank.main.bankMain:Please enter your username:
+18:38 06-01-2021-INFO -com.bank.main.bankMain:Please enter your password:
+18:38 06-01-2021-INFO -com.bank.main.bankMain:Successfully Logged In! 
+18:38 06-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+18:38 06-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+18:38 06-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+18:38 06-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+18:38 06-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+18:38 06-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+18:38 06-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+18:38 06-01-2021-INFO -com.bank.main.bankMain:Please enter your username:
+18:39 06-01-2021-INFO -com.bank.main.bankMain:Please enter your password:
+18:39 06-01-2021-INFO -com.bank.main.bankMain:Successfully Logged In! 
+18:39 06-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+18:39 06-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+18:39 06-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+18:39 06-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+18:39 06-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+18:39 06-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+18:39 06-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+18:39 06-01-2021-INFO -com.bank.main.bankMain:Please enter your username:
+18:39 06-01-2021-INFO -com.bank.main.bankMain:Please enter your password:
+18:39 06-01-2021-INFO -com.bank.main.bankMain:com.bank.exception.BusinessException: No combination of inputted username and password found
+18:46 06-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+18:46 06-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+18:46 06-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+18:46 06-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+18:46 06-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+18:46 06-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+18:46 06-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+18:46 06-01-2021-INFO -com.bank.main.bankMain:Please enter your username:
+18:47 06-01-2021-INFO -com.bank.main.bankMain:Please enter your password:
+18:47 06-01-2021-INFO -com.bank.main.bankMain:Successfully Logged In As Customer! 
+18:47 06-01-2021-INFO -com.bank.main.bankMain:Your user ID is1001
+18:51 06-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+18:51 06-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+18:51 06-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+18:51 06-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+18:51 06-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+18:51 06-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+18:51 06-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+18:51 06-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your username:
+18:51 06-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your password:
+18:51 06-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Customer! 
+18:51 06-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1001
+19:16 06-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+19:16 06-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+19:16 06-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+19:16 06-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+19:16 06-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+19:16 06-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+19:16 06-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+19:16 06-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+19:16 06-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+19:17 06-01-2021-INFO -com.bank.dao.impl.EmployeeDAOImpl:org.postgresql.util.PSQLException: ERROR: syntax error at or near "from"
+  Position: 30
+19:17 06-01-2021-INFO -com.bank.main.bankMainFunctions:com.bank.exception.BusinessException: internal error occured contact sysadmin
+19:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+19:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+19:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+19:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+19:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+19:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+19:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+19:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your username:
+19:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+19:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+19:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+19:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+19:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+19:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+19:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+19:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+19:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+19:18 06-01-2021-INFO -com.bank.dao.impl.EmployeeDAOImpl:org.postgresql.util.PSQLException: ERROR: syntax error at or near "from"
+  Position: 33
+19:18 06-01-2021-INFO -com.bank.main.bankMainFunctions:com.bank.exception.BusinessException: internal error occured contact sysadmin
+19:19 06-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+19:19 06-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+19:19 06-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+19:19 06-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+19:19 06-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+19:19 06-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+19:19 06-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+19:19 06-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+19:19 06-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+19:19 06-01-2021-INFO -com.bank.dao.impl.EmployeeDAOImpl:org.postgresql.util.PSQLException: ERROR: syntax error at or near "from"
+  Position: 33
+19:19 06-01-2021-INFO -com.bank.main.bankMainFunctions:com.bank.exception.BusinessException: internal error occured contact sysadmin
+19:21 06-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+19:21 06-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+19:21 06-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+19:21 06-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+19:21 06-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+19:21 06-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+19:21 06-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+19:21 06-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+19:21 06-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+19:21 06-01-2021-INFO -com.bank.dao.impl.EmployeeDAOImpl:org.postgresql.util.PSQLException: ERROR: syntax error at or near "from"
+  Position: 33
+19:21 06-01-2021-INFO -com.bank.main.bankMainFunctions:com.bank.exception.BusinessException: internal error occured contact sysadmin
+19:22 06-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+19:22 06-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+19:22 06-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+19:22 06-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+19:22 06-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+19:22 06-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+19:22 06-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+19:22 06-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+19:22 06-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+19:22 06-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+19:22 06-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+10:27 07-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+10:27 07-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+10:27 07-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+10:27 07-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+10:27 07-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+10:27 07-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+10:27 07-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+10:27 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your username:
+10:27 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your password:
+10:27 07-01-2021-INFO -com.bank.main.bankMainFunctions:com.bank.exception.BusinessException: No combination of inputted username and password found
+10:28 07-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+10:28 07-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+10:28 07-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+10:28 07-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+10:28 07-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+10:28 07-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+10:28 07-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+10:28 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your username:
+10:28 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your password:
+10:28 07-01-2021-INFO -com.bank.main.bankMainFunctions:com.bank.exception.BusinessException: No combination of inputted username and password found
+10:28 07-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+10:28 07-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+10:28 07-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+10:28 07-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+10:28 07-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+10:28 07-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+10:28 07-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+10:28 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your username:
+10:28 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your password:
+10:29 07-01-2021-INFO -com.bank.main.bankMainFunctions:com.bank.exception.BusinessException: No combination of inputted username and password found
+10:29 07-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+10:29 07-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+10:29 07-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+10:29 07-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+10:29 07-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+10:29 07-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+10:29 07-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+10:29 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your username:
+10:29 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your password:
+10:29 07-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Customer! 
+10:29 07-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1001
