@@ -41,4 +41,25 @@ public class LoginDAOImpl implements LoginDAO {
 		
 		return login;
 	}
+
+	@Override
+	public int newCredentials(Login login) throws BusinessException {
+		int l= 0;
+		try(Connection connection = PostgresqlConnection.getConnection()){
+			String sql ="insert into public.login(user_id,username,password) values(?,?,?) ";
+			PreparedStatement preparedStatement =connection.prepareStatement(sql);
+			preparedStatement.setInt(1, login.getUser_id());
+			preparedStatement.setString(2, login.getUsername());
+			preparedStatement.setString(3, login.getPassword());
+			
+			
+			l= preparedStatement.executeUpdate();
+			
+			
+		} catch (ClassNotFoundException | SQLException e) {
+			System.out.println(e);
+			throw new BusinessException("internal error occured contact sysadmin");
+		}
+		return l;
+	}
 }

@@ -2,7 +2,7 @@ package com.bank.dao;
 
 import com.bank.exception.BusinessException;
 
-import com.bank.customer.Customer;
+import com.bank.model.Customer;
 
 public interface CustomerDAO {
 

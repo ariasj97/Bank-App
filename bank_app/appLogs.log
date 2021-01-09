@@ -463,3 +463,2012 @@
 10:29 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your password:
 10:29 07-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Customer! 
 10:29 07-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1001
+15:29 07-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+15:29 07-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+15:29 07-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+15:29 07-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+15:29 07-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+15:29 07-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+15:29 07-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+15:29 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+15:30 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+15:30 07-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+15:30 07-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+15:32 07-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+15:32 07-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+15:32 07-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+15:32 07-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+15:32 07-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+15:32 07-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+15:32 07-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+15:32 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+15:32 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+15:32 07-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+15:32 07-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+15:36 07-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+15:36 07-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+15:36 07-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+15:36 07-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+15:36 07-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+15:36 07-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+15:36 07-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+15:36 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+15:36 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+15:36 07-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+15:36 07-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+15:39 07-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+15:39 07-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+15:39 07-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+15:39 07-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+15:39 07-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+15:39 07-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+15:39 07-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+15:39 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+15:40 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+15:40 07-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+15:40 07-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+15:40 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+15:40 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+15:40 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+15:40 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+15:40 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+15:40 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+15:40 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+15:40 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+15:40 07-01-2021-INFO -com.bank.main.bankMain:Invalid menu option. Input a valid menu choice.
+15:40 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+15:40 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+15:40 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+15:40 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+15:40 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+15:40 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+15:40 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+15:40 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+15:40 07-01-2021-INFO -com.bank.main.bankMain:Menu 1 under construction
+15:40 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+15:40 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+15:40 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+15:40 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+15:40 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+15:40 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+15:40 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+15:40 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+15:40 07-01-2021-INFO -com.bank.main.bankMain:Menu 2 under construction
+15:40 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+15:40 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+15:40 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+15:40 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+15:40 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+15:40 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+15:40 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+15:40 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+15:40 07-01-2021-INFO -com.bank.main.bankMain:Menu 3 under construction
+15:40 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+15:40 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+15:40 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+15:40 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+15:40 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+15:40 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+15:40 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+15:40 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+15:40 07-01-2021-INFO -com.bank.main.bankMain:Menu 4 under construction
+15:40 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+15:40 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+15:40 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+15:40 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+15:40 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+15:40 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+15:40 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+15:40 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+15:40 07-01-2021-INFO -com.bank.main.bankMain:Menu 5 under construction
+16:19 07-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+16:19 07-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+16:19 07-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+16:19 07-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+16:19 07-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+16:19 07-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+16:19 07-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+16:19 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+16:19 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+16:20 07-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+16:20 07-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+16:20 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+16:20 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:20 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+16:20 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+16:20 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+16:20 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+16:20 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+16:20 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+16:20 07-01-2021-INFO -com.bank.main.bankMain:Retrieving all customer details in the database
+16:20 07-01-2021-INFO -com.bank.main.bankMain:No customers in the database so far 
+16:20 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+16:20 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:20 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+16:20 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+16:20 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+16:20 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+16:20 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+16:20 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+16:25 07-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+16:25 07-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+16:25 07-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+16:25 07-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+16:25 07-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+16:25 07-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+16:25 07-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+16:25 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+16:25 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+16:25 07-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+16:25 07-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+16:25 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+16:25 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:25 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+16:25 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+16:25 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+16:25 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+16:25 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+16:25 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+16:25 07-01-2021-INFO -com.bank.main.bankMain:Retrieving all customer details in the database
+16:25 07-01-2021-INFO -com.bank.main.bankMain:No customers in the database so far 
+16:25 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+16:25 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:25 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+16:25 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+16:25 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+16:25 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+16:25 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+16:25 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+16:26 07-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+16:26 07-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+16:26 07-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+16:26 07-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+16:26 07-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+16:26 07-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+16:26 07-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+16:26 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+16:26 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+16:26 07-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+16:26 07-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+16:26 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+16:26 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:26 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+16:26 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+16:26 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+16:26 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+16:26 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+16:26 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+16:26 07-01-2021-INFO -com.bank.main.bankMain:Retrieving all customer details in the database
+16:26 07-01-2021-INFO -com.bank.main.bankMain:There are 3 in this bank. Printing thier information now.
+16:26 07-01-2021-INFO -com.bank.main.bankMain:Customer [customer_id=1001, name=Craig Rhodes, street_address=2585  Wayback Lane, dob=1950-09-17, credit_score=750]
+16:26 07-01-2021-INFO -com.bank.main.bankMain:Customer [customer_id=1002, name=Heidi Morgan
+, street_address=4819  Linda Street, dob=1961-10-21, credit_score=800]
+16:26 07-01-2021-INFO -com.bank.main.bankMain:Customer [customer_id=1003, name=Paula Banks, street_address=526  Willis Avenue, dob=1962-10-15, credit_score=645]
+16:26 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+16:26 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:26 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+16:26 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+16:26 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+16:26 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+16:26 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+16:26 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+16:29 07-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+16:29 07-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+16:29 07-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+16:29 07-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+16:29 07-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+16:29 07-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+16:29 07-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+16:29 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+16:29 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+16:29 07-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+16:29 07-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+16:29 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+16:29 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:29 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+16:29 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+16:29 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+16:29 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+16:29 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+16:29 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+16:29 07-01-2021-INFO -com.bank.main.bankMain:Retrieving all customer details in the database
+16:29 07-01-2021-INFO -com.bank.main.bankMain:There are 3 in this bank. Printing thier information now.
+16:29 07-01-2021-INFO -com.bank.main.bankMain:Customer [customer_id=1001, name=Craig Rhodes, street_address=2585  Wayback Lane, dob=1950-09-17, credit_score=750]
+16:29 07-01-2021-INFO -com.bank.main.bankMain:Customer [customer_id=1003, name=Paula Banks, street_address=526  Willis Avenue, dob=1962-10-15, credit_score=645]
+16:29 07-01-2021-INFO -com.bank.main.bankMain:Customer [customer_id=1002, name=Gabriella Arias, street_address=4819  Linda Street, dob=1961-10-21, credit_score=800]
+16:29 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+16:29 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:29 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+16:29 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+16:29 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+16:29 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+16:29 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+16:29 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+16:30 07-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+16:30 07-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+16:30 07-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+16:30 07-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+16:30 07-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+16:30 07-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+16:30 07-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+16:30 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+16:30 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+16:30 07-01-2021-INFO -com.bank.main.bankMainFunctions:com.bank.exception.BusinessException: No combination of inputted user id and account number found
+16:30 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+16:30 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:30 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+16:30 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+16:30 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+16:30 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+16:30 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+16:30 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+17:22 07-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+17:22 07-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+17:22 07-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+17:22 07-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+17:22 07-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+17:22 07-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+17:22 07-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+17:22 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+17:22 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+17:22 07-01-2021-INFO -com.bank.main.bankMainFunctions:com.bank.exception.BusinessException: No combination of inputted user id and account number found
+17:22 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+17:22 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+17:22 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+17:22 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+17:22 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+17:22 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+17:22 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+17:22 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+17:26 07-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+17:26 07-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+17:26 07-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+17:26 07-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+17:26 07-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+17:26 07-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+17:26 07-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+17:26 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+17:26 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+17:26 07-01-2021-INFO -com.bank.main.bankMainFunctions:com.bank.exception.BusinessException: No combination of inputted user id and account number found
+17:26 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+17:26 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+17:26 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+17:26 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+17:26 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+17:26 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+17:26 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+17:26 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+17:32 07-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+17:32 07-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+17:32 07-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+17:32 07-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+17:32 07-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+17:32 07-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+17:32 07-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+17:32 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+17:32 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+17:32 07-01-2021-INFO -com.bank.main.bankMainFunctions:com.bank.exception.BusinessException: No combination of inputted user id and account number found
+17:32 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+17:32 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+17:32 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+17:32 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+17:32 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+17:32 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+17:32 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+17:32 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+17:33 07-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+17:33 07-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+17:33 07-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+17:33 07-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+17:33 07-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+17:33 07-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+17:33 07-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+17:33 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+17:33 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+17:33 07-01-2021-INFO -com.bank.main.bankMainFunctions:com.bank.exception.BusinessException: No combination of inputted user id and account number found
+17:33 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+17:33 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+17:33 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+17:33 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+17:33 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+17:33 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+17:33 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+17:33 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+17:33 07-01-2021-INFO -com.bank.main.bankMain:Retrieving all customer details in the database
+17:33 07-01-2021-INFO -com.bank.main.bankMain:There are 3 people in this bank. Printing thier information now.
+17:33 07-01-2021-INFO -com.bank.main.bankMain:Customer [customer_id=1001, name=Craig Rhodes, street_address=2585  Wayback Lane, dob=1950-09-17, credit_score=750]
+17:33 07-01-2021-INFO -com.bank.main.bankMain:Customer [customer_id=1003, name=Paula Banks, street_address=526  Willis Avenue, dob=1962-10-15, credit_score=645]
+17:33 07-01-2021-INFO -com.bank.main.bankMain:Customer [customer_id=1002, name=Gabriella Arias, street_address=4819  Linda Street, dob=1961-10-21, credit_score=800]
+17:33 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+17:33 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+17:33 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+17:33 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+17:33 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+17:33 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+17:33 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+17:33 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+17:50 07-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+17:50 07-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+17:50 07-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+17:50 07-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+17:50 07-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+17:50 07-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+17:50 07-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+17:50 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+17:50 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+17:50 07-01-2021-INFO -com.bank.main.bankMainFunctions:com.bank.exception.BusinessException: No combination of inputted user id and account number found
+17:50 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+17:50 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+17:50 07-01-2021-INFO -com.bank.main.bankMainFunctions:com.bank.exception.BusinessException: No combination of inputted user id and account number found
+17:51 07-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+17:51 07-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+17:51 07-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+17:51 07-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+17:51 07-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+17:51 07-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+17:51 07-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+17:51 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+17:51 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+17:51 07-01-2021-INFO -com.bank.main.bankMainFunctions:com.bank.exception.BusinessException: No combination of inputted user id and account number found
+17:51 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+17:51 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+17:51 07-01-2021-INFO -com.bank.main.bankMainFunctions:com.bank.exception.BusinessException: No combination of inputted user id and account number found
+17:51 07-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+17:51 07-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+17:51 07-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+17:51 07-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+17:51 07-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+17:51 07-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+17:51 07-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+17:51 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+17:51 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+17:51 07-01-2021-INFO -com.bank.main.bankMainFunctions:com.bank.exception.BusinessException: No combination of inputted user id and account number found
+17:51 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+17:51 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+17:51 07-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+17:51 07-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+17:53 07-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+17:53 07-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+17:53 07-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+17:53 07-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+17:53 07-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+17:53 07-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+17:53 07-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+17:53 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+17:53 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+17:53 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+17:53 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+17:53 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+17:53 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+17:53 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+17:53 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+17:53 07-01-2021-INFO -com.bank.main.bankMain:Invalid menu option. Input a valid menu choice.
+17:53 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+17:53 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+17:53 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+17:53 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+17:53 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+17:53 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+17:53 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+17:53 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+17:53 07-01-2021-INFO -com.bank.main.bankMain:Invalid menu option. Input a valid menu choice.
+17:53 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+17:53 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+17:53 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+17:53 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+17:53 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+17:53 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+17:53 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+17:53 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+17:53 07-01-2021-INFO -com.bank.main.bankMain:Invalid menu option. Input a valid menu choice.
+17:53 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+17:53 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+17:53 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+17:53 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+17:53 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+17:53 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+17:53 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+17:53 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+17:53 07-01-2021-INFO -com.bank.main.bankMain:Invalid menu option. Input a valid menu choice.
+17:53 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+17:53 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+17:53 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+17:53 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+17:53 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+17:53 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+17:53 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+17:53 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+17:53 07-01-2021-INFO -com.bank.main.bankMain:Invalid menu option. Input a valid menu choice.
+17:53 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+17:53 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+17:53 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+17:53 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+17:53 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+17:53 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+17:53 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+17:53 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+17:53 07-01-2021-INFO -com.bank.main.bankMain:Invalid menu option. Input a valid menu choice.
+17:53 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+17:53 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+17:53 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+17:53 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+17:53 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+17:53 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+17:53 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+17:53 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+17:53 07-01-2021-INFO -com.bank.main.bankMain:Menu 1 under construction
+17:53 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+17:53 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+17:53 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+17:53 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+17:53 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+17:53 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+17:53 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+17:53 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+17:53 07-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+17:53 07-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+17:53 07-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+17:53 07-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+17:53 07-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+17:53 07-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+17:53 07-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+17:53 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+17:53 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+17:53 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+17:53 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+17:53 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+17:53 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+17:53 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+17:53 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+17:56 07-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+17:56 07-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+17:56 07-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+17:56 07-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+17:56 07-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+17:56 07-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+17:56 07-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+17:56 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+17:56 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+17:56 07-01-2021-INFO -com.bank.main.bankMainFunctions:com.bank.exception.BusinessException: No combination of inputted user id and account number found
+17:56 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+17:56 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+17:56 07-01-2021-INFO -com.bank.main.bankMainFunctions:com.bank.exception.BusinessException: No combination of inputted user id and account number found
+17:56 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+17:56 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+17:56 07-01-2021-INFO -com.bank.main.bankMainFunctions:com.bank.exception.BusinessException: No combination of inputted user id and account number found
+17:56 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+17:56 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+17:56 07-01-2021-INFO -com.bank.main.bankMainFunctions:com.bank.exception.BusinessException: No combination of inputted user id and account number found
+17:56 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+17:56 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+17:56 07-01-2021-INFO -com.bank.main.bankMainFunctions:com.bank.exception.BusinessException: No combination of inputted user id and account number found
+17:56 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+17:56 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+17:56 07-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+17:56 07-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+17:56 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+17:56 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+17:56 07-01-2021-INFO -com.bank.main.bankMainFunctions:com.bank.exception.BusinessException: No combination of inputted user id and account number found
+17:56 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+17:57 07-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+17:57 07-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+17:57 07-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+17:57 07-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+17:57 07-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+17:57 07-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+17:57 07-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+17:57 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+17:57 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+17:57 07-01-2021-INFO -com.bank.main.bankMainFunctions:com.bank.exception.BusinessException: No combination of inputted user id and account number found
+17:57 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+17:57 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+17:57 07-01-2021-INFO -com.bank.main.bankMainFunctions:com.bank.exception.BusinessException: No combination of inputted user id and account number found
+17:57 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+17:57 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+17:57 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+17:57 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+17:57 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+17:57 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+17:57 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+17:57 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+17:57 07-01-2021-INFO -com.bank.main.bankMain:Invalid menu option. Input a valid menu choice.
+17:57 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+17:57 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+17:57 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+17:57 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+17:57 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+17:57 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+17:57 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+17:57 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+17:58 07-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+17:58 07-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+17:58 07-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+17:58 07-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+17:58 07-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+17:58 07-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+17:58 07-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+17:58 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+17:58 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+17:58 07-01-2021-INFO -com.bank.main.bankMainFunctions:com.bank.exception.BusinessException: No combination of inputted user id and account number found
+17:58 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+17:58 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+17:58 07-01-2021-INFO -com.bank.main.bankMainFunctions:com.bank.exception.BusinessException: No combination of inputted user id and account number found
+17:58 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+17:58 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+17:58 07-01-2021-INFO -com.bank.main.bankMainFunctions:com.bank.exception.BusinessException: No combination of inputted user id and account number found
+17:58 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+17:58 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+17:58 07-01-2021-INFO -com.bank.main.bankMainFunctions:com.bank.exception.BusinessException: No combination of inputted user id and account number found
+17:58 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+17:58 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+17:58 07-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+17:58 07-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+17:58 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+17:58 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+17:58 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+17:58 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+17:58 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+17:58 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+17:58 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+17:58 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+18:21 07-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+18:21 07-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+18:21 07-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+18:21 07-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+18:21 07-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+18:21 07-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+18:21 07-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+18:21 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+18:21 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+18:21 07-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+18:21 07-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+18:21 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+18:21 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+18:21 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+18:21 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+18:21 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+18:21 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+18:21 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+18:21 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+18:32 07-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+18:32 07-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+18:32 07-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+18:32 07-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+18:32 07-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+18:32 07-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+18:32 07-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+18:32 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+18:32 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+18:32 07-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+18:32 07-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+18:32 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+18:32 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+18:32 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+18:32 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+18:32 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+18:32 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+18:32 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+18:32 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+18:32 07-01-2021-INFO -com.bank.main.bankMain:Enter the name you wish to see the details of: 
+18:33 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+18:33 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+18:33 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+18:33 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+18:33 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+18:33 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+18:33 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+18:33 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+18:33 07-01-2021-INFO -com.bank.main.bankMain:Enter the name you wish to see the details of: 
+18:33 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+18:33 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+18:33 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+18:33 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+18:33 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+18:33 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+18:33 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+18:33 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+18:33 07-01-2021-INFO -com.bank.main.bankMain:Enter the name you wish to see the details of: 
+18:33 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+18:33 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+18:33 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+18:33 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+18:33 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+18:33 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+18:33 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+18:33 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+18:33 07-01-2021-INFO -com.bank.main.bankMain:Enter the name you wish to see the details of: 
+18:34 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+18:34 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+18:34 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+18:34 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+18:34 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+18:34 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+18:34 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+18:34 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+18:36 07-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+18:36 07-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+18:36 07-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+18:36 07-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+18:36 07-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+18:36 07-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+18:36 07-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+18:36 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+18:36 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+18:36 07-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+18:36 07-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+18:36 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+18:36 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+18:36 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+18:36 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+18:36 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+18:36 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+18:36 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+18:36 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+18:36 07-01-2021-INFO -com.bank.main.bankMain:Enter the name you wish to see the details of: 
+18:36 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+18:36 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+18:36 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+18:36 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+18:36 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+18:36 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+18:36 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+18:36 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+18:37 07-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+18:37 07-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+18:37 07-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+18:37 07-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+18:37 07-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+18:37 07-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+18:37 07-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+18:37 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+18:38 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+18:38 07-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+18:38 07-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+18:38 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+18:38 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+18:38 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+18:38 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+18:38 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+18:38 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+18:38 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+18:38 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+18:38 07-01-2021-INFO -com.bank.main.bankMain:Enter the name you wish to see the details of: 
+18:38 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+18:38 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+18:38 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+18:38 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+18:38 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+18:38 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+18:38 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+18:38 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+19:19 07-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+19:19 07-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+19:19 07-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+19:19 07-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+19:19 07-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+19:19 07-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+19:19 07-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+19:19 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+19:19 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+19:19 07-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+19:19 07-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+19:19 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+19:19 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+19:19 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+19:19 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+19:19 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+19:19 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+19:19 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+19:19 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+19:19 07-01-2021-INFO -com.bank.main.bankMain:Enter a valid account number to get all their transactions: 
+19:20 07-01-2021-INFO -com.bank.main.bankMain:internal error occured contact sysadmin
+19:20 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+19:20 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+19:20 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+19:20 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+19:20 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+19:20 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+19:20 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+19:20 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+19:20 07-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+19:20 07-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+19:20 07-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+19:20 07-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+19:20 07-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+19:20 07-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+19:20 07-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+19:20 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+19:21 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+19:21 07-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+19:21 07-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+19:21 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+19:21 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+19:21 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+19:21 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+19:21 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+19:21 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+19:21 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+19:21 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+19:21 07-01-2021-INFO -com.bank.main.bankMain:Enter a valid account number to get all their transactions: 
+19:22 07-01-2021-INFO -com.bank.main.bankMain:There are 1 transactions with this account nummber in the database. Printing their details now.
+19:22 07-01-2021-INFO -com.bank.main.bankMain:Transaction [transaction_type=deposit, amount=4.0, account_number=100000004, date=2021-01-07]
+19:22 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+19:22 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+19:22 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+19:22 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+19:22 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+19:22 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+19:22 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+19:22 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+19:22 07-01-2021-INFO -com.bank.main.bankMain:Enter a valid account number to get all their transactions: 
+19:23 07-01-2021-INFO -com.bank.main.bankMain:There are 4 transactions with this account nummber in the database. Printing their details now.
+19:23 07-01-2021-INFO -com.bank.main.bankMain:Transaction [transaction_type=deposit, amount=12.0, account_number=100000000, date=2021-01-07]
+19:23 07-01-2021-INFO -com.bank.main.bankMain:Transaction [transaction_type=deposit, amount=100.0, account_number=100000000, date=2021-01-07]
+19:23 07-01-2021-INFO -com.bank.main.bankMain:Transaction [transaction_type=deposit, amount=56.0, account_number=100000000, date=2021-01-07]
+19:23 07-01-2021-INFO -com.bank.main.bankMain:Transaction [transaction_type=deposit, amount=345.0, account_number=100000000, date=2021-01-07]
+19:23 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+19:23 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+19:23 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+19:23 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+19:23 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+19:23 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+19:23 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+19:23 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+19:26 07-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+19:26 07-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+19:26 07-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+19:26 07-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+19:26 07-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+19:26 07-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+19:26 07-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+19:26 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+19:26 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+19:26 07-01-2021-INFO -com.bank.main.bankMainFunctions:com.bank.exception.BusinessException: No combination of inputted user id and account number found
+19:26 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+19:26 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+19:26 07-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+19:26 07-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+19:26 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+19:27 07-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+19:27 07-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+19:27 07-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+19:27 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+19:27 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+19:27 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+19:27 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+19:27 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+19:27 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+19:27 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+19:27 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+19:27 07-01-2021-INFO -com.bank.main.bankMain:Enter a valid account number to get all their transactions: 
+19:27 07-01-2021-INFO -com.bank.main.bankMain:There are 4 transactions with this account nummber in the database. Printing their details now.
+19:27 07-01-2021-INFO -com.bank.main.bankMain:Transaction [transaction_type=deposit, amount=12.0, account_number=100000000, date=2021-01-07]
+19:27 07-01-2021-INFO -com.bank.main.bankMain:Transaction [transaction_type=deposit, amount=100.0, account_number=100000000, date=2021-01-07]
+19:27 07-01-2021-INFO -com.bank.main.bankMain:Transaction [transaction_type=deposit, amount=56.76, account_number=100000000, date=2021-01-07]
+19:27 07-01-2021-INFO -com.bank.main.bankMain:Transaction [transaction_type=deposit, amount=345.89, account_number=100000000, date=2021-01-07]
+19:27 07-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+19:27 07-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+19:27 07-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+19:27 07-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+19:27 07-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+19:27 07-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+19:27 07-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+19:27 07-01-2021-INFO -com.bank.main.bankMain:6)Exit
+13:36 08-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+13:36 08-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+13:36 08-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+13:36 08-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+13:36 08-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+13:36 08-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+13:36 08-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+13:36 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+13:36 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+13:36 08-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+13:36 08-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+13:36 08-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+13:36 08-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+13:36 08-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+13:36 08-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+13:36 08-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+13:36 08-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+13:36 08-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+13:36 08-01-2021-INFO -com.bank.main.bankMain:6)Exit
+13:37 08-01-2021-INFO -com.bank.main.bankMain:Enter the name you wish to see the details of: 
+13:37 08-01-2021-INFO -com.bank.main.bankMain:Found 1 customers in the database. Printing their details now.
+13:37 08-01-2021-INFO -com.bank.main.bankMain:Customer [customer_id=1002, name=Gabriella Arias, street_address=4819  Linda Street, dob=1961-10-21, credit_score=800]
+13:37 08-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+13:37 08-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+13:37 08-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+13:37 08-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+13:37 08-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+13:37 08-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+13:37 08-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+13:37 08-01-2021-INFO -com.bank.main.bankMain:6)Exit
+13:37 08-01-2021-INFO -com.bank.main.bankMain:Retrieving all customer details in the database
+13:37 08-01-2021-INFO -com.bank.main.bankMain:There are 3 people in this bank. Printing thier information now.
+13:37 08-01-2021-INFO -com.bank.main.bankMain:Customer [customer_id=1001, name=Craig Rhodes, street_address=2585  Wayback Lane, dob=1950-09-17, credit_score=750]
+13:37 08-01-2021-INFO -com.bank.main.bankMain:Customer [customer_id=1003, name=Paula Banks, street_address=526  Willis Avenue, dob=1962-10-15, credit_score=645]
+13:37 08-01-2021-INFO -com.bank.main.bankMain:Customer [customer_id=1002, name=Gabriella Arias, street_address=4819  Linda Street, dob=1961-10-21, credit_score=800]
+13:37 08-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+13:37 08-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+13:37 08-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+13:37 08-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+13:37 08-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+13:37 08-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+13:37 08-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+13:37 08-01-2021-INFO -com.bank.main.bankMain:6)Exit
+13:37 08-01-2021-INFO -com.bank.main.bankMain:Exiting....Thank you for using jason's banking app.
+14:43 08-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+14:43 08-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+14:43 08-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+14:43 08-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+14:43 08-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+14:43 08-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+14:43 08-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+14:43 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+14:43 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+14:43 08-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+14:43 08-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+14:43 08-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+14:43 08-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+14:43 08-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+14:43 08-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+14:43 08-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+14:43 08-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+14:43 08-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+14:43 08-01-2021-INFO -com.bank.main.bankMain:6)Exit
+14:43 08-01-2021-INFO -com.bank.main.bankMain:Enter the new Customer's Details
+14:43 08-01-2021-INFO -com.bank.main.bankMain:User Id: 
+14:43 08-01-2021-INFO -com.bank.main.bankMain:Name: 
+14:43 08-01-2021-INFO -com.bank.main.bankMain:Street Adress: 
+14:44 08-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+14:44 08-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+14:44 08-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+14:44 08-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+14:44 08-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+14:44 08-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+14:44 08-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+14:44 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+14:44 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+14:44 08-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+14:44 08-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+14:44 08-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+14:44 08-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+14:44 08-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+14:44 08-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+14:44 08-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+14:44 08-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+14:44 08-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+14:44 08-01-2021-INFO -com.bank.main.bankMain:6)Exit
+14:44 08-01-2021-INFO -com.bank.main.bankMain:Enter the new Customer's Details
+14:44 08-01-2021-INFO -com.bank.main.bankMain:User Id: 
+14:44 08-01-2021-INFO -com.bank.main.bankMain:Name: 
+14:44 08-01-2021-INFO -com.bank.main.bankMain:Street Adress: 
+14:44 08-01-2021-INFO -com.bank.main.bankMain:Date of Birth: 
+14:45 08-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+14:45 08-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+14:45 08-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+14:45 08-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+14:45 08-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+14:45 08-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+14:45 08-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+14:45 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+14:46 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+14:46 08-01-2021-INFO -com.bank.main.bankMainFunctions:com.bank.exception.BusinessException: No combination of inputted user id and account number found
+14:46 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+14:46 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+14:46 08-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+14:46 08-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+14:46 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+14:46 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+14:46 08-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+14:46 08-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+14:46 08-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+14:46 08-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+14:46 08-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+14:46 08-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+14:46 08-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+14:46 08-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+14:46 08-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+14:46 08-01-2021-INFO -com.bank.main.bankMain:6)Exit
+14:46 08-01-2021-INFO -com.bank.main.bankMain:Enter the new Customer's Details
+14:46 08-01-2021-INFO -com.bank.main.bankMain:User Id: 
+14:46 08-01-2021-INFO -com.bank.main.bankMain:Name: 
+14:46 08-01-2021-INFO -com.bank.main.bankMain:Street Adress: 
+14:46 08-01-2021-INFO -com.bank.main.bankMain:Date of Birth: 
+14:47 08-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+14:47 08-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+14:47 08-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+14:47 08-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+14:47 08-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+14:47 08-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+14:47 08-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+14:47 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+14:47 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+14:47 08-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+14:47 08-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+14:47 08-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+14:47 08-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+14:47 08-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+14:47 08-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+14:47 08-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+14:47 08-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+14:47 08-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+14:47 08-01-2021-INFO -com.bank.main.bankMain:6)Exit
+14:47 08-01-2021-INFO -com.bank.main.bankMain:Enter the new Customer's Details
+14:47 08-01-2021-INFO -com.bank.main.bankMain:User Id: 
+14:47 08-01-2021-INFO -com.bank.main.bankMain:Name: 
+14:47 08-01-2021-INFO -com.bank.main.bankMain:Street Adress: 
+14:47 08-01-2021-INFO -com.bank.main.bankMain:Date of Birth: 
+14:51 08-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+14:51 08-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+14:51 08-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+14:51 08-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+14:51 08-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+14:51 08-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+14:51 08-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+14:51 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+14:52 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+14:52 08-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+14:52 08-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+14:52 08-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+14:52 08-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+14:52 08-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+14:52 08-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+14:52 08-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+14:52 08-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+14:52 08-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+14:52 08-01-2021-INFO -com.bank.main.bankMain:6)Exit
+14:52 08-01-2021-INFO -com.bank.main.bankMain:Enter the new Customer's Details
+14:52 08-01-2021-INFO -com.bank.main.bankMain:User Id: 
+14:52 08-01-2021-INFO -com.bank.main.bankMain:Name: 
+14:52 08-01-2021-INFO -com.bank.main.bankMain:Street Adress: 
+14:52 08-01-2021-INFO -com.bank.main.bankMain:Date of Birth: 
+14:52 08-01-2021-INFO -com.bank.main.bankMain:Credit Score: 
+14:54 08-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+14:54 08-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+14:54 08-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+14:54 08-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+14:54 08-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+14:54 08-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+14:54 08-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+14:54 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+14:54 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+14:54 08-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+14:54 08-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+14:54 08-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+14:54 08-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+14:54 08-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+14:54 08-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+14:54 08-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+14:54 08-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+14:54 08-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+14:54 08-01-2021-INFO -com.bank.main.bankMain:6)Exit
+14:54 08-01-2021-INFO -com.bank.main.bankMain:Enter the new Customer's Details
+14:54 08-01-2021-INFO -com.bank.main.bankMain:User Id: 
+14:54 08-01-2021-INFO -com.bank.main.bankMain:Name: 
+14:54 08-01-2021-INFO -com.bank.main.bankMain:Street Adress: 
+14:54 08-01-2021-INFO -com.bank.main.bankMain:Date of Birth: 
+14:59 08-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+14:59 08-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+14:59 08-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+14:59 08-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+14:59 08-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+14:59 08-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+14:59 08-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+14:59 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+14:59 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+14:59 08-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+14:59 08-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+14:59 08-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+14:59 08-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+14:59 08-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+14:59 08-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+14:59 08-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+14:59 08-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+14:59 08-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+14:59 08-01-2021-INFO -com.bank.main.bankMain:6)Exit
+14:59 08-01-2021-INFO -com.bank.main.bankMain:Enter the new Customer's Details
+14:59 08-01-2021-INFO -com.bank.main.bankMain:User Id: 
+14:59 08-01-2021-INFO -com.bank.main.bankMain:Name: 
+14:59 08-01-2021-INFO -com.bank.main.bankMain:Street Adress: 
+15:00 08-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+15:00 08-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+15:00 08-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+15:00 08-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+15:00 08-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+15:00 08-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+15:00 08-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+15:00 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+15:00 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+15:00 08-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+15:00 08-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+15:00 08-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+15:00 08-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+15:00 08-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+15:00 08-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+15:00 08-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+15:00 08-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+15:00 08-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+15:00 08-01-2021-INFO -com.bank.main.bankMain:6)Exit
+15:00 08-01-2021-INFO -com.bank.main.bankMain:Enter the new Customer's Details
+15:00 08-01-2021-INFO -com.bank.main.bankMain:User Id: 
+15:01 08-01-2021-INFO -com.bank.main.bankMain:Name: 
+
+15:01 08-01-2021-INFO -com.bank.main.bankMain:Street Adress: 
+
+15:03 08-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+15:03 08-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+15:03 08-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+15:03 08-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+15:03 08-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+15:03 08-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+15:03 08-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+15:03 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+15:03 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+15:03 08-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+15:03 08-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+15:03 08-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+15:03 08-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+15:03 08-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+15:03 08-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+15:03 08-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+15:03 08-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+15:03 08-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+15:03 08-01-2021-INFO -com.bank.main.bankMain:6)Exit
+15:03 08-01-2021-INFO -com.bank.main.bankMain:Enter the new Customer's Details
+15:03 08-01-2021-INFO -com.bank.main.bankMain:User Id: 
+15:03 08-01-2021-INFO -com.bank.main.bankMain:Name: 
+15:03 08-01-2021-INFO -com.bank.main.bankMain:Street Adress: 
+15:05 08-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+15:05 08-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+15:05 08-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+15:05 08-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+15:05 08-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+15:05 08-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+15:05 08-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+15:05 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+15:05 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+15:05 08-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+15:05 08-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+15:05 08-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+15:05 08-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+15:05 08-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+15:05 08-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+15:05 08-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+15:05 08-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+15:05 08-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+15:05 08-01-2021-INFO -com.bank.main.bankMain:6)Exit
+15:05 08-01-2021-INFO -com.bank.main.bankMain:Enter the new Customer's Details
+15:05 08-01-2021-INFO -com.bank.main.bankMain:User Id: 
+15:05 08-01-2021-INFO -com.bank.main.bankMain:Name: 
+15:05 08-01-2021-INFO -com.bank.main.bankMain:Street Adress: 
+15:07 08-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+15:07 08-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+15:07 08-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+15:07 08-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+15:07 08-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+15:07 08-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+15:07 08-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+15:07 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+15:07 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+15:07 08-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+15:07 08-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+15:07 08-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+15:07 08-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+15:07 08-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+15:07 08-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+15:07 08-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+15:07 08-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+15:07 08-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+15:07 08-01-2021-INFO -com.bank.main.bankMain:6)Exit
+15:07 08-01-2021-INFO -com.bank.main.bankMain:Enter the new Customer's Details
+15:07 08-01-2021-INFO -com.bank.main.bankMain:User Id: 
+15:07 08-01-2021-INFO -com.bank.main.bankMain:Name: 
+15:07 08-01-2021-INFO -com.bank.main.bankMain:Street Adress: 
+15:07 08-01-2021-INFO -com.bank.main.bankMain:Date of Birth: 
+15:08 08-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+15:08 08-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+15:08 08-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+15:08 08-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+15:08 08-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+15:08 08-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+15:08 08-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+15:08 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+15:08 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+15:08 08-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+15:08 08-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+15:08 08-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+15:08 08-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+15:08 08-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+15:08 08-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+15:08 08-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+15:08 08-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+15:08 08-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+15:08 08-01-2021-INFO -com.bank.main.bankMain:6)Exit
+15:08 08-01-2021-INFO -com.bank.main.bankMain:Enter the new Customer's Details
+15:08 08-01-2021-INFO -com.bank.main.bankMain:User Id: 
+15:08 08-01-2021-INFO -com.bank.main.bankMain:Name: 
+15:08 08-01-2021-INFO -com.bank.main.bankMain:Street Adress: 
+15:08 08-01-2021-INFO -com.bank.main.bankMain:Credit Score: 
+15:09 08-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+15:09 08-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+15:09 08-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+15:09 08-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+15:09 08-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+15:09 08-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+15:09 08-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+15:09 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+15:09 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+15:09 08-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+15:09 08-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+15:09 08-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+15:09 08-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+15:09 08-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+15:09 08-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+15:09 08-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+15:09 08-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+15:09 08-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+15:09 08-01-2021-INFO -com.bank.main.bankMain:6)Exit
+15:09 08-01-2021-INFO -com.bank.main.bankMain:Enter the new Customer's Details
+15:09 08-01-2021-INFO -com.bank.main.bankMain:User Id: 
+15:09 08-01-2021-INFO -com.bank.main.bankMain:Name: 
+15:09 08-01-2021-INFO -com.bank.main.bankMain:Street Adress: 
+15:09 08-01-2021-INFO -com.bank.main.bankMain:Credit Score: 
+15:10 08-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+15:10 08-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+15:10 08-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+15:10 08-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+15:10 08-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+15:10 08-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+15:10 08-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+15:10 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+15:10 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+15:10 08-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+15:10 08-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+15:10 08-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+15:10 08-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+15:10 08-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+15:10 08-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+15:10 08-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+15:10 08-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+15:10 08-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+15:10 08-01-2021-INFO -com.bank.main.bankMain:6)Exit
+15:10 08-01-2021-INFO -com.bank.main.bankMain:Enter the new Customer's Details
+15:10 08-01-2021-INFO -com.bank.main.bankMain:User Id: 
+15:10 08-01-2021-INFO -com.bank.main.bankMain:Name: 
+15:10 08-01-2021-INFO -com.bank.main.bankMain:Street Adress: 
+15:10 08-01-2021-INFO -com.bank.main.bankMain:Credit Score: 
+15:13 08-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+15:13 08-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+15:13 08-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+15:13 08-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+15:13 08-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+15:13 08-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+15:13 08-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+15:13 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+15:13 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+15:13 08-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+15:13 08-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+15:13 08-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+15:13 08-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+15:13 08-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+15:13 08-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+15:13 08-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+15:13 08-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+15:13 08-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+15:13 08-01-2021-INFO -com.bank.main.bankMain:6)Exit
+15:13 08-01-2021-INFO -com.bank.main.bankMain:Enter the new Customer's Details
+15:13 08-01-2021-INFO -com.bank.main.bankMain:User Id: 
+15:13 08-01-2021-INFO -com.bank.main.bankMain:Name: 
+15:13 08-01-2021-INFO -com.bank.main.bankMain:Street Adress: 
+15:13 08-01-2021-INFO -com.bank.main.bankMain:Credit Score: 
+15:30 08-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+15:30 08-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+15:30 08-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+15:30 08-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+15:30 08-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+15:30 08-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+15:30 08-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+15:30 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+15:31 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+15:31 08-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+15:31 08-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+15:31 08-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+15:31 08-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+15:31 08-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+15:31 08-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+15:31 08-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+15:31 08-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+15:31 08-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+15:31 08-01-2021-INFO -com.bank.main.bankMain:6)Exit
+15:31 08-01-2021-INFO -com.bank.main.bankMain:Enter the new Customer's Details
+15:31 08-01-2021-INFO -com.bank.main.bankMain:User Id: 
+15:31 08-01-2021-INFO -com.bank.main.bankMain:Name: 
+15:31 08-01-2021-INFO -com.bank.main.bankMain:Street Adress: 
+15:31 08-01-2021-INFO -com.bank.main.bankMain:Credit Score: 
+15:37 08-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+15:37 08-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+15:37 08-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+15:37 08-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+15:37 08-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+15:37 08-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+15:37 08-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+15:37 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+15:37 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+15:37 08-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+15:37 08-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+15:37 08-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+15:37 08-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+15:37 08-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+15:37 08-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+15:37 08-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+15:37 08-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+15:37 08-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+15:37 08-01-2021-INFO -com.bank.main.bankMain:6)Exit
+15:37 08-01-2021-INFO -com.bank.main.bankMain:Enter the new Customer's Details
+15:37 08-01-2021-INFO -com.bank.main.bankMain:User Id: 
+15:37 08-01-2021-INFO -com.bank.main.bankMain:Name: 
+15:38 08-01-2021-INFO -com.bank.main.bankMain:Street Adress: 
+15:38 08-01-2021-INFO -com.bank.main.bankMain:Credit Score: 
+15:38 08-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+15:38 08-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+15:38 08-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+15:38 08-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+15:38 08-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+15:38 08-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+15:38 08-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+15:38 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+15:39 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+15:39 08-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+15:39 08-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+15:39 08-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+15:39 08-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+15:39 08-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+15:39 08-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+15:39 08-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+15:39 08-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+15:39 08-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+15:39 08-01-2021-INFO -com.bank.main.bankMain:6)Exit
+15:39 08-01-2021-INFO -com.bank.main.bankMain:Enter the new Customer's Details
+15:39 08-01-2021-INFO -com.bank.main.bankMain:User Id: 
+15:39 08-01-2021-INFO -com.bank.main.bankMain:Name: 
+15:39 08-01-2021-INFO -com.bank.main.bankMain:Street Adress: 
+15:40 08-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+15:40 08-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+15:40 08-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+15:40 08-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+15:40 08-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+15:40 08-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+15:40 08-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+15:40 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+15:40 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+15:40 08-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+15:40 08-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+15:40 08-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+15:40 08-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+15:40 08-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+15:40 08-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+15:40 08-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+15:40 08-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+15:40 08-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+15:40 08-01-2021-INFO -com.bank.main.bankMain:6)Exit
+15:40 08-01-2021-INFO -com.bank.main.bankMain:Enter the new Customer's Details
+15:40 08-01-2021-INFO -com.bank.main.bankMain:User Id: 
+15:40 08-01-2021-INFO -com.bank.main.bankMain:Name: 
+15:40 08-01-2021-INFO -com.bank.main.bankMain:Street Adress: 
+15:40 08-01-2021-INFO -com.bank.main.bankMain:Credit Score: 
+15:41 08-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+15:41 08-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+15:41 08-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+15:41 08-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+15:41 08-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+15:41 08-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+15:41 08-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+15:41 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+15:41 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+15:41 08-01-2021-INFO -com.bank.main.bankMainFunctions:com.bank.exception.BusinessException: No combination of inputted user id and account number found
+15:41 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+15:42 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+15:43 08-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+15:43 08-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+15:43 08-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+15:43 08-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+15:43 08-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+15:43 08-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+15:43 08-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+15:43 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+15:43 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+15:43 08-01-2021-INFO -com.bank.main.bankMainFunctions:com.bank.exception.BusinessException: No combination of inputted user id and account number found
+15:43 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+15:43 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+15:43 08-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+15:43 08-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+15:43 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+15:43 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+15:43 08-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+15:43 08-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+15:43 08-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+15:43 08-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+15:43 08-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+15:43 08-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+15:43 08-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+15:43 08-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+15:43 08-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+15:43 08-01-2021-INFO -com.bank.main.bankMain:6)Exit
+15:43 08-01-2021-INFO -com.bank.main.bankMain:Enter the new Customer's Details
+15:43 08-01-2021-INFO -com.bank.main.bankMain:User Id: 
+15:43 08-01-2021-INFO -com.bank.main.bankMain:Name: 
+15:44 08-01-2021-INFO -com.bank.main.bankMain:Street Adress: 
+15:44 08-01-2021-INFO -com.bank.main.bankMain:Credit Score: 
+15:44 08-01-2021-INFO -com.bank.main.bankMain:Date of Birth: 
+15:46 08-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+15:46 08-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+15:46 08-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+15:46 08-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+15:46 08-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+15:46 08-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+15:46 08-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+15:46 08-01-2021-INFO -com.bank.main.bankMainFunctions:Invalid menu choice please try again.
+15:46 08-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+15:46 08-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+15:46 08-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+15:46 08-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+15:46 08-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+15:46 08-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+15:46 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+15:46 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+15:46 08-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+15:46 08-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+15:46 08-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+15:46 08-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+15:46 08-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+15:46 08-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+15:46 08-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+15:46 08-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+15:46 08-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+15:46 08-01-2021-INFO -com.bank.main.bankMain:6)Exit
+15:46 08-01-2021-INFO -com.bank.main.bankMain:Enter the new Customer's Details
+15:46 08-01-2021-INFO -com.bank.main.bankMain:User Id: 
+15:46 08-01-2021-INFO -com.bank.main.bankMain:Name: 
+15:46 08-01-2021-INFO -com.bank.main.bankMain:Street Adress: 
+15:46 08-01-2021-INFO -com.bank.main.bankMain:Credit Score: 
+15:46 08-01-2021-INFO -com.bank.main.bankMain:Date of Birth: 
+16:03 08-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+16:03 08-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+16:03 08-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+16:03 08-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+16:03 08-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+16:03 08-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+16:03 08-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+16:03 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+16:03 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+16:03 08-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+16:03 08-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+16:03 08-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+16:03 08-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:03 08-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+16:03 08-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+16:03 08-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+16:03 08-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+16:03 08-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+16:03 08-01-2021-INFO -com.bank.main.bankMain:6)Exit
+16:03 08-01-2021-INFO -com.bank.main.bankMain:Enter the new Customer's Details
+16:03 08-01-2021-INFO -com.bank.main.bankMain:User Id: 
+16:03 08-01-2021-INFO -com.bank.main.bankMain:Name: 
+16:03 08-01-2021-INFO -com.bank.main.bankMain:Street Adress: 
+16:03 08-01-2021-INFO -com.bank.main.bankMain:Credit Score: 
+16:03 08-01-2021-INFO -com.bank.main.bankMain:Date of Birth: 
+16:30 08-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+16:30 08-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+16:30 08-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+16:30 08-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+16:30 08-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+16:30 08-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+16:30 08-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+16:30 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+16:30 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+16:31 08-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+16:31 08-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+16:31 08-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+16:31 08-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:31 08-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+16:31 08-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+16:31 08-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+16:31 08-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+16:31 08-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+16:31 08-01-2021-INFO -com.bank.main.bankMain:6)Exit
+16:31 08-01-2021-INFO -com.bank.main.bankMain:Enter the new Customer's Details
+16:31 08-01-2021-INFO -com.bank.main.bankMain:User Id: 
+16:31 08-01-2021-INFO -com.bank.main.bankMain:Name: 
+16:31 08-01-2021-INFO -com.bank.main.bankMain:Street Adress: 
+16:31 08-01-2021-INFO -com.bank.main.bankMain:Credit Score: 
+16:31 08-01-2021-INFO -com.bank.main.bankMain:Date of Birth: 
+16:34 08-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+16:34 08-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+16:34 08-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+16:34 08-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+16:34 08-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+16:34 08-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+16:34 08-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+16:34 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+16:34 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+16:34 08-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+16:34 08-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+16:34 08-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+16:34 08-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:34 08-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+16:34 08-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+16:34 08-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+16:34 08-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+16:34 08-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+16:34 08-01-2021-INFO -com.bank.main.bankMain:6)Exit
+16:34 08-01-2021-INFO -com.bank.main.bankMain:Enter the new Customer's Details
+16:34 08-01-2021-INFO -com.bank.main.bankMain:User Id: 
+16:35 08-01-2021-INFO -com.bank.main.bankMain:Name: 
+16:35 08-01-2021-INFO -com.bank.main.bankMain:Street Adress: 
+16:35 08-01-2021-INFO -com.bank.main.bankMain:Credit Score: 
+16:35 08-01-2021-INFO -com.bank.main.bankMain:Date of Birth: 
+16:58 08-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+16:58 08-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+16:58 08-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+16:58 08-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+16:58 08-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+16:58 08-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+16:58 08-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+16:58 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+16:58 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+16:59 08-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+16:59 08-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+16:59 08-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+16:59 08-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:59 08-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+16:59 08-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+16:59 08-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+16:59 08-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+16:59 08-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+16:59 08-01-2021-INFO -com.bank.main.bankMain:6)Exit
+16:59 08-01-2021-INFO -com.bank.main.bankMain:Enter the new Customer's Details
+16:59 08-01-2021-INFO -com.bank.main.bankMain:User Id: 
+16:59 08-01-2021-INFO -com.bank.main.bankMain:Name: 
+16:59 08-01-2021-INFO -com.bank.main.bankMain:Street Adress: 
+16:59 08-01-2021-INFO -com.bank.main.bankMain:Credit Score: 
+16:59 08-01-2021-INFO -com.bank.main.bankMain:Date of Birth: 
+17:11 08-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+17:11 08-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+17:11 08-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+17:11 08-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+17:11 08-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+17:11 08-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+17:11 08-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+17:11 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+17:11 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+17:11 08-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+17:11 08-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+17:11 08-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+17:11 08-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+17:11 08-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+17:11 08-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+17:11 08-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+17:11 08-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+17:11 08-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+17:11 08-01-2021-INFO -com.bank.main.bankMain:6)Exit
+17:11 08-01-2021-INFO -com.bank.main.bankMain:Enter the new Customer's Details
+17:11 08-01-2021-INFO -com.bank.main.bankMain:User Id: 
+17:11 08-01-2021-INFO -com.bank.main.bankMain:Name: 
+17:11 08-01-2021-INFO -com.bank.main.bankMain:Street Adress: 
+17:11 08-01-2021-INFO -com.bank.main.bankMain:Credit Score: 
+17:11 08-01-2021-INFO -com.bank.main.bankMain:Date of Birth: 
+17:14 08-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+17:14 08-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+17:14 08-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+17:14 08-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+17:14 08-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+17:14 08-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+17:14 08-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+17:14 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+17:14 08-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+17:14 08-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+17:14 08-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+17:14 08-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+17:14 08-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+17:14 08-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+17:14 08-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+17:14 08-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+17:14 08-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+17:14 08-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+17:14 08-01-2021-INFO -com.bank.main.bankMain:6)Exit
+17:14 08-01-2021-INFO -com.bank.main.bankMain:Enter the new Customer's Details
+17:14 08-01-2021-INFO -com.bank.main.bankMain:User Id: 
+17:14 08-01-2021-INFO -com.bank.main.bankMain:Name: 
+17:14 08-01-2021-INFO -com.bank.main.bankMain:Street Adress: 
+17:14 08-01-2021-INFO -com.bank.main.bankMain:Credit Score: 
+17:14 08-01-2021-INFO -com.bank.main.bankMain:Date of Birth: 
+17:15 08-01-2021-INFO -com.bank.service.impl.EmployeeServiceImpl:internal error occured contact sysadmin
+17:15 08-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+17:15 08-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+17:15 08-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer
+17:15 08-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+17:15 08-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+17:15 08-01-2021-INFO -com.bank.main.bankMain:4)Validate a new customer
+17:15 08-01-2021-INFO -com.bank.main.bankMain:5)View transactions by account number
+17:15 08-01-2021-INFO -com.bank.main.bankMain:6)Exit
+15:38 09-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+15:38 09-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+15:38 09-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+15:38 09-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+15:38 09-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+15:38 09-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+15:38 09-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+15:38 09-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+15:38 09-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+15:38 09-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+15:38 09-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+15:38 09-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+15:38 09-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+15:38 09-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer's username and password
+15:38 09-01-2021-INFO -com.bank.main.bankMain:2)Register a new Customer's details
+15:38 09-01-2021-INFO -com.bank.main.bankMain:3)View all customer details
+15:38 09-01-2021-INFO -com.bank.main.bankMain:4)View details by customer name
+15:38 09-01-2021-INFO -com.bank.main.bankMain:5)Validate a new customer
+15:38 09-01-2021-INFO -com.bank.main.bankMain:6)View transactions by account number
+15:38 09-01-2021-INFO -com.bank.main.bankMain:7)Exit
+15:39 09-01-2021-INFO -com.bank.main.bankMain:Enter the new Customer's Details
+15:39 09-01-2021-INFO -com.bank.main.bankMain:User ID: 
+15:39 09-01-2021-INFO -com.bank.main.bankMain:Username: 
+15:39 09-01-2021-INFO -com.bank.main.bankMain:{Password: 
+15:39 09-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+15:39 09-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+15:39 09-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer's username and password
+15:39 09-01-2021-INFO -com.bank.main.bankMain:2)Register a new Customer's details
+15:39 09-01-2021-INFO -com.bank.main.bankMain:3)View all customer details
+15:39 09-01-2021-INFO -com.bank.main.bankMain:4)View details by customer name
+15:39 09-01-2021-INFO -com.bank.main.bankMain:5)Validate a new customer
+15:39 09-01-2021-INFO -com.bank.main.bankMain:6)View transactions by account number
+15:39 09-01-2021-INFO -com.bank.main.bankMain:7)Exit
+15:40 09-01-2021-INFO -com.bank.main.bankMain:Exiting....Thank you for using jason's banking app.
+15:42 09-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+15:42 09-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+15:42 09-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+15:42 09-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+15:42 09-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+15:42 09-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+15:42 09-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+15:42 09-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+15:42 09-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+15:42 09-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+15:42 09-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+15:42 09-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+15:42 09-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+15:42 09-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer's username and password
+15:42 09-01-2021-INFO -com.bank.main.bankMain:2)Register a new Customer's details
+15:42 09-01-2021-INFO -com.bank.main.bankMain:3)View all customer details
+15:42 09-01-2021-INFO -com.bank.main.bankMain:4)View details by customer name
+15:42 09-01-2021-INFO -com.bank.main.bankMain:5)Validate a new customer
+15:42 09-01-2021-INFO -com.bank.main.bankMain:6)View transactions by account number
+15:42 09-01-2021-INFO -com.bank.main.bankMain:7)Exit
+15:42 09-01-2021-INFO -com.bank.main.bankMain:Enter the new Customer's Details
+15:42 09-01-2021-INFO -com.bank.main.bankMain:User ID: 
+15:42 09-01-2021-INFO -com.bank.main.bankMain:Username: 
+15:42 09-01-2021-INFO -com.bank.main.bankMain:Password: 
+15:42 09-01-2021-INFO -com.bank.service.impl.LoginServiceImpl:internal error occured contact sysadmin
+15:42 09-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+15:42 09-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+15:42 09-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer's username and password
+15:42 09-01-2021-INFO -com.bank.main.bankMain:2)Register a new Customer's details
+15:42 09-01-2021-INFO -com.bank.main.bankMain:3)View all customer details
+15:42 09-01-2021-INFO -com.bank.main.bankMain:4)View details by customer name
+15:42 09-01-2021-INFO -com.bank.main.bankMain:5)Validate a new customer
+15:42 09-01-2021-INFO -com.bank.main.bankMain:6)View transactions by account number
+15:42 09-01-2021-INFO -com.bank.main.bankMain:7)Exit
+15:43 09-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+15:43 09-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+15:43 09-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+15:43 09-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+15:43 09-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+15:43 09-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+15:43 09-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+15:43 09-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+15:43 09-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+15:43 09-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+15:43 09-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+15:43 09-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+15:43 09-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+15:43 09-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer's username and password
+15:43 09-01-2021-INFO -com.bank.main.bankMain:2)Register a new Customer's details
+15:43 09-01-2021-INFO -com.bank.main.bankMain:3)View all customer details
+15:43 09-01-2021-INFO -com.bank.main.bankMain:4)View details by customer name
+15:43 09-01-2021-INFO -com.bank.main.bankMain:5)Validate a new customer
+15:43 09-01-2021-INFO -com.bank.main.bankMain:6)View transactions by account number
+15:43 09-01-2021-INFO -com.bank.main.bankMain:7)Exit
+15:43 09-01-2021-INFO -com.bank.main.bankMain:Enter the new Customer's Details
+15:43 09-01-2021-INFO -com.bank.main.bankMain:User ID: 
+15:43 09-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+15:43 09-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+15:43 09-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+15:43 09-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+15:43 09-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+15:43 09-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+15:43 09-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+15:43 09-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+15:43 09-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+15:43 09-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+15:43 09-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+15:43 09-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+15:43 09-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+15:43 09-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer's username and password
+15:43 09-01-2021-INFO -com.bank.main.bankMain:2)Register a new Customer's details
+15:43 09-01-2021-INFO -com.bank.main.bankMain:3)View all customer details
+15:43 09-01-2021-INFO -com.bank.main.bankMain:4)View details by customer name
+15:43 09-01-2021-INFO -com.bank.main.bankMain:5)Validate a new customer
+15:43 09-01-2021-INFO -com.bank.main.bankMain:6)View transactions by account number
+15:43 09-01-2021-INFO -com.bank.main.bankMain:7)Exit
+15:43 09-01-2021-INFO -com.bank.main.bankMain:Enter the new Customer's Details
+15:43 09-01-2021-INFO -com.bank.main.bankMain:User ID: 
+15:43 09-01-2021-INFO -com.bank.main.bankMain:Username: 
+15:43 09-01-2021-INFO -com.bank.main.bankMain:Password: 
+15:43 09-01-2021-INFO -com.bank.main.bankMain:New Customer added to the database
+15:43 09-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+15:43 09-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+15:43 09-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer's username and password
+15:43 09-01-2021-INFO -com.bank.main.bankMain:2)Register a new Customer's details
+15:43 09-01-2021-INFO -com.bank.main.bankMain:3)View all customer details
+15:43 09-01-2021-INFO -com.bank.main.bankMain:4)View details by customer name
+15:43 09-01-2021-INFO -com.bank.main.bankMain:5)Validate a new customer
+15:43 09-01-2021-INFO -com.bank.main.bankMain:6)View transactions by account number
+15:43 09-01-2021-INFO -com.bank.main.bankMain:7)Exit
+15:44 09-01-2021-INFO -com.bank.main.bankMain:Enter the new Customer's Details
+15:44 09-01-2021-INFO -com.bank.main.bankMain:User Id: 
+15:44 09-01-2021-INFO -com.bank.main.bankMain:Name: 
+15:44 09-01-2021-INFO -com.bank.main.bankMain:Street Adress: 
+15:44 09-01-2021-INFO -com.bank.main.bankMain:Credit Score: 
+15:44 09-01-2021-INFO -com.bank.main.bankMain:Date of Birth: 
+15:44 09-01-2021-INFO -com.bank.main.bankMain:New Customer added to the database
+15:44 09-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+15:44 09-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+15:44 09-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer's username and password
+15:44 09-01-2021-INFO -com.bank.main.bankMain:2)Register a new Customer's details
+15:44 09-01-2021-INFO -com.bank.main.bankMain:3)View all customer details
+15:44 09-01-2021-INFO -com.bank.main.bankMain:4)View details by customer name
+15:44 09-01-2021-INFO -com.bank.main.bankMain:5)Validate a new customer
+15:44 09-01-2021-INFO -com.bank.main.bankMain:6)View transactions by account number
+15:44 09-01-2021-INFO -com.bank.main.bankMain:7)Exit
+15:44 09-01-2021-INFO -com.bank.main.bankMain:Exiting....Thank you for using jason's banking app.
+15:57 09-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+15:57 09-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+15:57 09-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+15:57 09-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+15:57 09-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+15:57 09-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+15:57 09-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+15:58 09-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+15:58 09-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+15:58 09-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+15:58 09-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+15:58 09-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+15:58 09-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+15:58 09-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer's username and password
+15:58 09-01-2021-INFO -com.bank.main.bankMain:2)Register a new Customer's details
+15:58 09-01-2021-INFO -com.bank.main.bankMain:3)View all customer details
+15:58 09-01-2021-INFO -com.bank.main.bankMain:4)View details by customer name
+15:58 09-01-2021-INFO -com.bank.main.bankMain:5)Validate a new customer
+15:58 09-01-2021-INFO -com.bank.main.bankMain:6)View transactions by account number
+15:58 09-01-2021-INFO -com.bank.main.bankMain:7)Exit
+15:58 09-01-2021-INFO -com.bank.main.bankMain:New Customer Menu
+15:58 09-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+15:58 09-01-2021-INFO -com.bank.main.bankMain:1)Validate A New Customer
+15:58 09-01-2021-INFO -com.bank.main.bankMain:2)Register a new Customer's username and password
+15:58 09-01-2021-INFO -com.bank.main.bankMain:3)Register a new Customer's details
+15:58 09-01-2021-INFO -com.bank.main.bankMain:4)Exit
+15:58 09-01-2021-INFO -com.bank.main.bankMain:Invalid menu option. Input a valid menu choice.
+15:58 09-01-2021-INFO -com.bank.main.bankMain:New Customer Menu
+15:58 09-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+15:58 09-01-2021-INFO -com.bank.main.bankMain:1)Validate A New Customer
+15:58 09-01-2021-INFO -com.bank.main.bankMain:2)Register a new Customer's username and password
+15:58 09-01-2021-INFO -com.bank.main.bankMain:3)Register a new Customer's details
+15:58 09-01-2021-INFO -com.bank.main.bankMain:4)Exit
+15:58 09-01-2021-INFO -com.bank.main.bankMain:Invalid menu option. Input a valid menu choice.
+15:58 09-01-2021-INFO -com.bank.main.bankMain:New Customer Menu
+15:58 09-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+15:58 09-01-2021-INFO -com.bank.main.bankMain:1)Validate A New Customer
+15:58 09-01-2021-INFO -com.bank.main.bankMain:2)Register a new Customer's username and password
+15:58 09-01-2021-INFO -com.bank.main.bankMain:3)Register a new Customer's details
+15:58 09-01-2021-INFO -com.bank.main.bankMain:4)Exit
+15:58 09-01-2021-INFO -com.bank.main.bankMain:Invalid menu option. Input a valid menu choice.
+15:58 09-01-2021-INFO -com.bank.main.bankMain:New Customer Menu
+15:58 09-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+15:58 09-01-2021-INFO -com.bank.main.bankMain:1)Validate A New Customer
+15:58 09-01-2021-INFO -com.bank.main.bankMain:2)Register a new Customer's username and password
+15:58 09-01-2021-INFO -com.bank.main.bankMain:3)Register a new Customer's details
+15:58 09-01-2021-INFO -com.bank.main.bankMain:4)Exit
+15:58 09-01-2021-INFO -com.bank.main.bankMain:Invalid menu option. Input a valid menu choice.
+15:58 09-01-2021-INFO -com.bank.main.bankMain:New Customer Menu
+15:58 09-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+15:58 09-01-2021-INFO -com.bank.main.bankMain:1)Validate A New Customer
+15:58 09-01-2021-INFO -com.bank.main.bankMain:2)Register a new Customer's username and password
+15:58 09-01-2021-INFO -com.bank.main.bankMain:3)Register a new Customer's details
+15:58 09-01-2021-INFO -com.bank.main.bankMain:4)Exit
+15:58 09-01-2021-INFO -com.bank.main.bankMain:Invalid menu option. Input a valid menu choice.
+15:58 09-01-2021-INFO -com.bank.main.bankMain:New Customer Menu
+15:58 09-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+15:58 09-01-2021-INFO -com.bank.main.bankMain:1)Validate A New Customer
+15:58 09-01-2021-INFO -com.bank.main.bankMain:2)Register a new Customer's username and password
+15:58 09-01-2021-INFO -com.bank.main.bankMain:3)Register a new Customer's details
+15:58 09-01-2021-INFO -com.bank.main.bankMain:4)Exit
+16:01 09-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+16:01 09-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+16:01 09-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+16:01 09-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+16:01 09-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+16:01 09-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+16:01 09-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+16:01 09-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+16:01 09-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+16:01 09-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+16:01 09-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+16:01 09-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+16:01 09-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:01 09-01-2021-INFO -com.bank.main.bankMain:1)Register a new Customer's username and password
+16:01 09-01-2021-INFO -com.bank.main.bankMain:2)Register a new Customer's details
+16:01 09-01-2021-INFO -com.bank.main.bankMain:3)View all customer details
+16:01 09-01-2021-INFO -com.bank.main.bankMain:4)View details by customer name
+16:01 09-01-2021-INFO -com.bank.main.bankMain:5)Validate a new customer
+16:01 09-01-2021-INFO -com.bank.main.bankMain:6)View transactions by account number
+16:01 09-01-2021-INFO -com.bank.main.bankMain:7)Exit
+16:08 09-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+16:08 09-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+16:08 09-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+16:08 09-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+16:08 09-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+16:08 09-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+16:08 09-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+16:08 09-01-2021-INFO -com.bank.main.bankMainFunctions:Invalid menu choice please try again.
+16:08 09-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+16:08 09-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+16:08 09-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+16:08 09-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+16:08 09-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+16:08 09-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+16:08 09-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+16:08 09-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+16:08 09-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+16:08 09-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+16:08 09-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+16:08 09-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:08 09-01-2021-INFO -com.bank.main.bankMain:1)New Customer Menu
+16:08 09-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+16:08 09-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+16:08 09-01-2021-INFO -com.bank.main.bankMain:4)View transactions by account number
+16:08 09-01-2021-INFO -com.bank.main.bankMain:5)Exit
+16:08 09-01-2021-INFO -com.bank.main.bankMain:New Customer Menu
+16:08 09-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:08 09-01-2021-INFO -com.bank.main.bankMain:1)Validate A New Customer
+16:08 09-01-2021-INFO -com.bank.main.bankMain:2)Register a new Customer's username and password
+16:08 09-01-2021-INFO -com.bank.main.bankMain:3)Register a new Customer's details
+16:08 09-01-2021-INFO -com.bank.main.bankMain:4)Exit
+16:08 09-01-2021-INFO -com.bank.main.bankMain:Invalid menu option. Input a valid menu choice.
+16:08 09-01-2021-INFO -com.bank.main.bankMain:New Customer Menu
+16:08 09-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:08 09-01-2021-INFO -com.bank.main.bankMain:1)Validate A New Customer
+16:08 09-01-2021-INFO -com.bank.main.bankMain:2)Register a new Customer's username and password
+16:08 09-01-2021-INFO -com.bank.main.bankMain:3)Register a new Customer's details
+16:08 09-01-2021-INFO -com.bank.main.bankMain:4)Exit
+16:08 09-01-2021-INFO -com.bank.main.bankMain:Invalid menu option. Input a valid menu choice.
+16:08 09-01-2021-INFO -com.bank.main.bankMain:New Customer Menu
+16:08 09-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:08 09-01-2021-INFO -com.bank.main.bankMain:1)Validate A New Customer
+16:08 09-01-2021-INFO -com.bank.main.bankMain:2)Register a new Customer's username and password
+16:08 09-01-2021-INFO -com.bank.main.bankMain:3)Register a new Customer's details
+16:08 09-01-2021-INFO -com.bank.main.bankMain:4)Exit
+16:08 09-01-2021-INFO -com.bank.main.bankMain:Exiting....Thank you for using jason's banking app.
+16:08 09-01-2021-INFO -com.bank.main.bankMain:New Customer Menu
+16:08 09-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:08 09-01-2021-INFO -com.bank.main.bankMain:1)Validate A New Customer
+16:08 09-01-2021-INFO -com.bank.main.bankMain:2)Register a new Customer's username and password
+16:08 09-01-2021-INFO -com.bank.main.bankMain:3)Register a new Customer's details
+16:08 09-01-2021-INFO -com.bank.main.bankMain:4)Exit
+16:08 09-01-2021-INFO -com.bank.main.bankMain:Exiting....Thank you for using jason's banking app.
+16:08 09-01-2021-INFO -com.bank.main.bankMain:New Customer Menu
+16:08 09-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:08 09-01-2021-INFO -com.bank.main.bankMain:1)Validate A New Customer
+16:08 09-01-2021-INFO -com.bank.main.bankMain:2)Register a new Customer's username and password
+16:08 09-01-2021-INFO -com.bank.main.bankMain:3)Register a new Customer's details
+16:08 09-01-2021-INFO -com.bank.main.bankMain:4)Exit
+16:08 09-01-2021-INFO -com.bank.main.bankMain:Exiting....Thank you for using jason's banking app.
+16:08 09-01-2021-INFO -com.bank.main.bankMain:New Customer Menu
+16:08 09-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:08 09-01-2021-INFO -com.bank.main.bankMain:1)Validate A New Customer
+16:08 09-01-2021-INFO -com.bank.main.bankMain:2)Register a new Customer's username and password
+16:08 09-01-2021-INFO -com.bank.main.bankMain:3)Register a new Customer's details
+16:08 09-01-2021-INFO -com.bank.main.bankMain:4)Exit
+16:08 09-01-2021-INFO -com.bank.main.bankMain:Exiting....Thank you for using jason's banking app.
+16:08 09-01-2021-INFO -com.bank.main.bankMain:New Customer Menu
+16:08 09-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:08 09-01-2021-INFO -com.bank.main.bankMain:1)Validate A New Customer
+16:08 09-01-2021-INFO -com.bank.main.bankMain:2)Register a new Customer's username and password
+16:08 09-01-2021-INFO -com.bank.main.bankMain:3)Register a new Customer's details
+16:08 09-01-2021-INFO -com.bank.main.bankMain:4)Exit
+16:08 09-01-2021-INFO -com.bank.main.bankMain:Exiting....Thank you for using jason's banking app.
+16:08 09-01-2021-INFO -com.bank.main.bankMain:New Customer Menu
+16:08 09-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:08 09-01-2021-INFO -com.bank.main.bankMain:1)Validate A New Customer
+16:08 09-01-2021-INFO -com.bank.main.bankMain:2)Register a new Customer's username and password
+16:08 09-01-2021-INFO -com.bank.main.bankMain:3)Register a new Customer's details
+16:08 09-01-2021-INFO -com.bank.main.bankMain:4)Exit
+16:09 09-01-2021-INFO -com.bank.main.bankMain:Invalid menu option. Input a valid menu choice.
+16:09 09-01-2021-INFO -com.bank.main.bankMain:New Customer Menu
+16:09 09-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:09 09-01-2021-INFO -com.bank.main.bankMain:1)Validate A New Customer
+16:09 09-01-2021-INFO -com.bank.main.bankMain:2)Register a new Customer's username and password
+16:09 09-01-2021-INFO -com.bank.main.bankMain:3)Register a new Customer's details
+16:09 09-01-2021-INFO -com.bank.main.bankMain:4)Exit
+16:09 09-01-2021-INFO -com.bank.main.bankMain:Exiting....Thank you for using jason's banking app.
+16:09 09-01-2021-INFO -com.bank.main.bankMain:New Customer Menu
+16:09 09-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:09 09-01-2021-INFO -com.bank.main.bankMain:1)Validate A New Customer
+16:09 09-01-2021-INFO -com.bank.main.bankMain:2)Register a new Customer's username and password
+16:09 09-01-2021-INFO -com.bank.main.bankMain:3)Register a new Customer's details
+16:09 09-01-2021-INFO -com.bank.main.bankMain:4)Exit
+16:09 09-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+16:09 09-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+16:09 09-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+16:09 09-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+16:09 09-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+16:09 09-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+16:09 09-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+16:09 09-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+16:09 09-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+16:09 09-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+16:09 09-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+16:09 09-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+16:09 09-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+16:09 09-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+16:09 09-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+16:09 09-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+16:09 09-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+16:10 09-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+16:10 09-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+16:10 09-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+16:10 09-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+16:10 09-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:10 09-01-2021-INFO -com.bank.main.bankMain:1)New Customer Menu
+16:10 09-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+16:10 09-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+16:10 09-01-2021-INFO -com.bank.main.bankMain:4)View transactions by account number
+16:10 09-01-2021-INFO -com.bank.main.bankMain:5)Exit
+16:10 09-01-2021-INFO -com.bank.main.bankMain:Exiting....Thank you for using jason's banking app.
+16:10 09-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+16:10 09-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+16:10 09-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+16:10 09-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+16:10 09-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+16:10 09-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+16:10 09-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+16:10 09-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+16:10 09-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+16:10 09-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+16:10 09-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+16:10 09-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+16:10 09-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:10 09-01-2021-INFO -com.bank.main.bankMain:1)New Customer Menu
+16:10 09-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+16:10 09-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+16:10 09-01-2021-INFO -com.bank.main.bankMain:4)View transactions by account number
+16:10 09-01-2021-INFO -com.bank.main.bankMain:5)Exit
+16:10 09-01-2021-INFO -com.bank.main.bankMain:New Customer Menu
+16:10 09-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:10 09-01-2021-INFO -com.bank.main.bankMain:1)Validate A New Customer
+16:10 09-01-2021-INFO -com.bank.main.bankMain:2)Register a new Customer's username and password
+16:10 09-01-2021-INFO -com.bank.main.bankMain:3)Register a new Customer's details
+16:10 09-01-2021-INFO -com.bank.main.bankMain:4)Exit
+16:10 09-01-2021-INFO -com.bank.main.bankMain:Exiting....Thank you for using jason's banking app.
+16:10 09-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+16:10 09-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:10 09-01-2021-INFO -com.bank.main.bankMain:1)New Customer Menu
+16:10 09-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+16:10 09-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+16:10 09-01-2021-INFO -com.bank.main.bankMain:4)View transactions by account number
+16:10 09-01-2021-INFO -com.bank.main.bankMain:5)Exit
+16:10 09-01-2021-INFO -com.bank.main.bankMain:Enter a valid account number to get all their transactions: 
+16:11 09-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+16:11 09-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+16:11 09-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+16:11 09-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+16:11 09-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+16:11 09-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+16:11 09-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+16:11 09-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+16:11 09-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+16:11 09-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+16:11 09-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+16:11 09-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+16:11 09-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:11 09-01-2021-INFO -com.bank.main.bankMain:1)New Customer Menu
+16:11 09-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+16:11 09-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+16:11 09-01-2021-INFO -com.bank.main.bankMain:4)View transactions by account number
+16:11 09-01-2021-INFO -com.bank.main.bankMain:5)Exit
+16:11 09-01-2021-INFO -com.bank.main.bankMain:New Customer Menu
+16:11 09-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:11 09-01-2021-INFO -com.bank.main.bankMain:1)Validate A New Customer
+16:11 09-01-2021-INFO -com.bank.main.bankMain:2)Register a new Customer's username and password
+16:11 09-01-2021-INFO -com.bank.main.bankMain:3)Register a new Customer's details
+16:11 09-01-2021-INFO -com.bank.main.bankMain:4)Exit
+16:11 09-01-2021-INFO -com.bank.main.bankMain:Exiting New Cusomter Menu......Returning to Employee Menu.
+16:11 09-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+16:11 09-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:11 09-01-2021-INFO -com.bank.main.bankMain:1)New Customer Menu
+16:11 09-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+16:11 09-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+16:11 09-01-2021-INFO -com.bank.main.bankMain:4)View transactions by account number
+16:11 09-01-2021-INFO -com.bank.main.bankMain:5)Exit

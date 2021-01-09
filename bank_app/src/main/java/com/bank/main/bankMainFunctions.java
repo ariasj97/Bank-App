@@ -41,7 +41,8 @@ import com.bank.model.Login;
 		
 		}
 		
-		void LogInAsCustomer(){
+		boolean LogInAsCustomer(){
+			boolean valid= false;
 			LoginDAOImpl loginDAO = new LoginDAOImpl();
 			String username, password;
 			Scanner scan = new Scanner(System.in);
@@ -54,12 +55,18 @@ import com.bank.model.Login;
 				if(login !=null) {
 					log.info("Successfully Logged In As Customer! ");
 					log.info("Your user ID is: "+ login.getUser_id());
+					valid = true;
 				}
 			}catch(BusinessException e) {
 				log.info(e);
 			}
+			return valid;
 		}
-		void LogInEmployee(){
+		
+		boolean LogInEmployee(){
+			boolean valid= false;
+			
+			
 			EmployeeDAOImpl employeeDAO = new EmployeeDAOImpl();
 			int user_id,account_number;
 			Scanner scan = new Scanner(System.in);
@@ -72,9 +79,14 @@ import com.bank.model.Login;
 				if(employee !=null) {
 					log.info("Successfully Logged In As Employee! ");
 					log.info("Your user ID is: "+ employee.getEmployee_id());
+					valid = true;
 				}
 			}catch(BusinessException e) {
 				log.info(e);
 			}
+			return valid;
 		}
+		
+		
+		
 }

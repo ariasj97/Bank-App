@@ -14,7 +14,7 @@ public class Customer {
 	}
 
 
-	public Customer(int customer_id, String name, String street_address, Date date, int credit_score) {
+	public Customer(int customer_id, String name, String street_address, Date dob, int credit_score) {
 		super();
 		this.customer_id = customer_id;
 		this.name = name;
