@@ -39,43 +39,16 @@ public class EmployeeServiceImpl implements EmployeeService {
 		return valid;
 	}
 
-	@Override
-	public List<Customer> viewAllCustomers() throws BusinessException {
-		List<Customer> allCustomersList = null;
-		allCustomersList = employeeDAO.viewAllCustomers();
-		return allCustomersList;
-	}
 
 	@Override
-	public List<Customer> viewCustomerByCustomerName(String name)throws BusinessException {
-		List<Customer> getCustomersName = null;
-		if(name.length()>=0 && name.length()<25) {
-			getCustomersName = employeeDAO.viewCustomerByCustomerName(name);
+	public void newCustomerValidation(int credit_score) throws BusinessException {
+		if(credit_score>300 && credit_score <850) {
+			employeeDAO.newCustomerValidation(credit_score);
 		}else {
-			throw new BusinessException("Entered name "+ name+" is invalid");
+			throw new BusinessException("Entered credit score "+ credit_score+ " must be between 300 and 850");
 		}
 		
-		return getCustomersName;
 	}
-
-	@Override
-	public boolean newCustomerValidation(int credit_score, double balance) {
-		// TODO Auto-generated method stub
-		return false;
-	}
-
-	@Override
-	public List<Transaction> viewTransactionsByAccountNumber(int account_number)throws BusinessException {
-		List<Transaction> getTransactions = null;
-		if(account_number>=999999 && account_number<100000100) {
-			getTransactions = employeeDAO.viewTransactionsByAccountNumber(account_number);
-		}else {
-			throw new BusinessException("Entered account number "+ account_number+" is invalid");
-		}
-		
-		return getTransactions;
-	}
-
 	
 
 }

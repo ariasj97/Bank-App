@@ -42,100 +42,19 @@ public class EmployeeDAOImpl implements EmployeeDAO {
 		return c;
 	}
 
+	
+
 	@Override
-	public List<Customer> viewAllCustomers() throws BusinessException {
-		List<Customer> customersList = new ArrayList<>();
-		try(Connection connection = PostgresqlConnection.getConnection()){
-			String sql= "select user_id, name, street_address, dob, credit_score from public.customer";
-			PreparedStatement preparedStatement = connection.prepareStatement(sql);
-			ResultSet resultSet= preparedStatement.executeQuery();
-			
-			while(resultSet.next()) {
-				Customer customer = new Customer();
-				customer.setCustomer_id(resultSet.getInt("user_id"));
-				customer.setName(resultSet.getString("name"));
-				customer.setStreet_address(resultSet.getString("street_address"));
-				customer.setDob(resultSet.getDate("dob"));
-				customer.setCredit_score(resultSet.getInt("credit_score"));
-				customersList.add(customer);
-			}
-			
-			if(customersList.size()==0) {
-				throw new BusinessException("No customers in the database so far ");
-			}
-		}catch (ClassNotFoundException | SQLException e) {
-			System.out.println(e);
-			throw new BusinessException("internal error occured contact sysadmin");
+	public void newCustomerValidation(int credit_score) {
+	
+		if(credit_score<500) {
+			log.info("This Customer does not meet the sufficient credit score of at least 500.");
+		}else {
+			log.info("This customer meets the requirements to become a new bank member. Please continue with the regestration process");
 		}
-		
-		return customersList;
 	}
 
-	@Override
-	public List<Customer> viewCustomerByCustomerName(String name) throws BusinessException {
-		List<Customer> customerList  = new ArrayList<>();
-		try(Connection connection = PostgresqlConnection.getConnection()){
-			String sql= "select user_id, name, street_address, dob, credit_score from public.customer where name=?";
-			PreparedStatement preparedStatement = connection.prepareStatement(sql);
-			preparedStatement.setString(1,name);
-			ResultSet resultSet= preparedStatement.executeQuery();
-			
-			while(resultSet.next()) {
-				Customer customer = new Customer();
-				customer.setCustomer_id(resultSet.getInt("user_id"));
-				customer.setName(name);
-				customer.setStreet_address(resultSet.getString("street_address"));
-				customer.setDob(resultSet.getDate("dob"));
-				customer.setCredit_score(resultSet.getInt("credit_score"));
-				customerList.add(customer);
-			}
-			
-			if(customerList.size()==0) {
-				throw new BusinessException("No customer in the database with that name. Please check spelling and case sensitivity ");
-			}
-		}catch (ClassNotFoundException | SQLException e) {
-			System.out.println(e);
-			throw new BusinessException("internal error occured contact sysadmin");
-		}
-		
-	return customerList;
-	}
-
-	@Override
-	public boolean newCustomerValidation(int credit_score, double balance) {
-		// TODO Auto-generated method stub
-		return false;
-	}
-
-	@Override
-	public List<Transaction> viewTransactionsByAccountNumber(int account_number)throws BusinessException {
-		List<Transaction> transactionList  = new ArrayList<>();
-		try(Connection connection = PostgresqlConnection.getConnection()){
-			String sql= "select transaction_type, amount, account_number, date from public.transaction where account_number=?";
-			PreparedStatement preparedStatement = connection.prepareStatement(sql);
-			preparedStatement.setInt(1,account_number);
-			ResultSet resultSet= preparedStatement.executeQuery();
-			
-			while(resultSet.next()) {
-				Transaction transaction = new Transaction();
-				transaction.setTransaction_type(resultSet.getString("transaction_type"));
-				transaction.setAmount(resultSet.getDouble("amount"));
-				transaction.setAccount_number(account_number);
-				transaction.setDate(resultSet.getDate("date"));
-				transactionList.add(transaction);
-			}
-			
-			if(transactionList.size()==0) {
-				throw new BusinessException("No account number in the database with that number. Please enter a valid account number ");
-			}
-		}catch (ClassNotFoundException | SQLException e) {
-			System.out.println(e);
-			throw new BusinessException("internal error occured contact sysadmin");
-		}
-		
-	return transactionList;
-	}
-
+	
 	@Override
 	public Employee employeeLogin(int user_id, int account_number)throws BusinessException{
 		Employee employee = null;

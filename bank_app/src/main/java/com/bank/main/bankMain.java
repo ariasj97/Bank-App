@@ -8,10 +8,18 @@ import java.util.Scanner;
 
 import org.apache.log4j.Logger;
 
+import com.bank.dao.AccountDAO;
+import com.bank.dao.CustomerDAO;
 import com.bank.dao.EmployeeDAO;
+import com.bank.dao.TransactionDAO;
+import com.bank.dao.impl.AccountDAOImpl;
+import com.bank.dao.impl.CustomerDAOImpl;
 import com.bank.dao.impl.EmployeeDAOImpl;
+import com.bank.dao.impl.TransactionDAOImpl;
 import com.bank.exception.BusinessException;
+import com.bank.model.Account;
 import com.bank.model.Customer;
+import com.bank.model.Employee;
 import com.bank.model.Login;
 import com.bank.model.Transaction;
 import com.bank.service.EmployeeService;
@@ -30,12 +38,16 @@ public class bankMain {
 
 		int choice = logInMenu.logInMenu();
 		int employeeChoice= 0;
-		int choice2 = 0;
+		int employeeChoice2 = 0;
+		int custChoice = 0;
+		bankMainFunctions logInAsEmployee = new bankMainFunctions();
+		EmployeeDAO employeeDAO = new EmployeeDAOImpl();
+		TransactionDAO transactionDAO = new TransactionDAOImpl();
+		CustomerDAO customerDAO = new CustomerDAOImpl();
+		AccountDAO accountDAO = new AccountDAOImpl();
 		Scanner sc = new Scanner (System.in);
 		
 		if(choice==1) {
-			bankMainFunctions logInAsEmployee = new bankMainFunctions();
-			EmployeeDAO employeeDAO = new EmployeeDAOImpl();
 			
 			//loops until a valid user_id and account number is valid
 			while(logInAsEmployee.LogInEmployee()==false){
@@ -61,6 +73,7 @@ public class bankMain {
 				case 1:
 					
 					do {
+						log.info("");
 						log.info("New Customer Menu");
 						log.info("--------------------------------------------");
 						log.info("1)Validate A New Customer");
@@ -68,14 +81,21 @@ public class bankMain {
 						log.info("3)Register a new Customer's details");
 						log.info("4)Exit");
 						try {
-							choice2 = Integer.parseInt(sc.nextLine());
+							employeeChoice2 = Integer.parseInt(sc.nextLine());
 						}catch(NumberFormatException e) {}
 						
-						switch(choice2) {
+						switch(employeeChoice2) {
 						case 1:
+							//Customer validation
+							log.info("Please enter the potential customer's credit score");
+							int nCredit_score =Integer.parseInt(sc.nextLine());
 							
-							//Validation for new Customers
-							log.info("validation under construction");
+							try {
+								employeeService.newCustomerValidation(nCredit_score);
+							} catch (BusinessException e2) {
+								// TODO Auto-generated catch block
+								e2.printStackTrace();
+							}
 							break;
 						case 2:
 							
@@ -96,6 +116,7 @@ public class bankMain {
 								int valid2 =loginService.newCredentials(login);
 								if (valid2!=0) {
 									log.info("New Customer added to the database");
+									log.info("");
 								}
 							}catch(BusinessException e) {
 								log.info(e.getMessage());
@@ -118,7 +139,7 @@ public class bankMain {
 							log.info("Credit Score: ");
 							int credit_score = Integer.parseInt(sc.nextLine());
 
-							log.info("Date of Birth: ");
+							log.info("Date of Birth (format:MM-dd-yyyy): ");
 							String dob = sc.nextLine();
 							
 							SimpleDateFormat sdf = new SimpleDateFormat("MM-dd-yyyy");
@@ -128,6 +149,7 @@ public class bankMain {
 								dob2=sdf.parse(dob);
 							}catch(ParseException e1) {
 								log.info("Invalid date format");
+								log.info("");
 							}
 								
 							Customer customer = new Customer(user_id, newName, street_address, dob2, credit_score);
@@ -135,6 +157,7 @@ public class bankMain {
 								int valid =employeeService.newCustomer(customer);
 								if (valid!=0) {
 									log.info("New Customer added to the database");
+									log.info("");
 								}
 							}catch(BusinessException e) {
 								log.info(e.getMessage());
@@ -144,19 +167,22 @@ public class bankMain {
 							
 							//Exit menu
 							log.info("Exiting New Cusomter Menu......Returning to Employee Menu.");
+							log.info("");
 							break;
 							
 						default:
 							log.info("Invalid menu option. Input a valid menu choice.");
+							log.info("");
 						}
-					}while(choice2!=4);
+					}while(employeeChoice2!=4);
 					break;
 				
 				//Get all customers in the database
 				case 2:
 					log.info("Retrieving all customer details in the database");
+					log.info("");
 					try {
-						List<Customer> allCustomersList = employeeService.viewAllCustomers();
+						List<Customer> allCustomersList = customerDAO.viewAllCustomers();
 						if(allCustomersList!=null && allCustomersList.size()>0) {
 							log.info("There are "+ allCustomersList.size()+" cutomers in this database. Printing thier information now.");
 							for(Customer c:allCustomersList) {
@@ -174,7 +200,7 @@ public class bankMain {
 					log.info("Enter the name you wish to see the details of: ");
 					try {
 						String name = sc.nextLine();
-						List<Customer> getCustomersName = employeeService.viewCustomerByCustomerName(name);
+						List<Customer> getCustomersName = customerDAO.viewCustomerByCustomerName(name);
 						if(getCustomersName!=null && getCustomersName.size()>0) {
 							log.info("Found "+getCustomersName.size()+" customers in this database. Printing their details now.");
 							for(Customer c:getCustomersName) {
@@ -191,15 +217,17 @@ public class bankMain {
 					log.info("Enter a valid account number to get all their transactions: ");
 					try {
 						int account_number = Integer.parseInt(sc.nextLine());
-						List<Transaction> getTransaction = employeeService.viewTransactionsByAccountNumber(account_number);
+						List<Transaction> getTransaction = transactionDAO.viewTransactionsByAccountNumber(account_number);
 						if(getTransaction!=null && getTransaction.size()>0) {
 							log.info("There are "+getTransaction.size()+" transactions with this account nummber in the database. Printing their details now.");
+							log.info("");
 							for(Transaction t:getTransaction) {
 								log.info(t);
 							}
 					}
 					}catch(NumberFormatException e) {
 					log.info("Account number cannot include special character, symbols, or white spaces");
+					log.info("");
 					
 					} catch (BusinessException e) {
 					log.info(e.getMessage());
@@ -212,22 +240,107 @@ public class bankMain {
 					break;
 				default:
 					log.info("Invalid menu option. Input a valid menu choice.");
+					log.info("");
 					
 				}
 				
 			}while(employeeChoice !=5);
 			
-		
+		}
 	
-		if(choice==2){
+		else if(choice==2){
 			bankMainFunctions logInAsCustomer = new bankMainFunctions();
-			while(logInAsCustomer.LogInAsCustomer()==false){
-				logInAsEmployee.LogInAsCustomer();
-			}
-			}
+			
+			while(logInAsCustomer.LogInAsCustomer()==false)
+				logInAsCustomer.LogInAsCustomer();
+			
+			
+			do{
+				log.info("Customer Menu");
+				log.info("--------------------------------------------");
+				log.info("1)New Customer Menu");
+				log.info("2)View Balance of specified account");
+				log.info("3)Withdraw");
+				log.info("4)Deposit");
+				log.info("5)Transfer Funds");
+				log.info("6)View Transactions");
+				log.info("7)Exit");
+				try {
+					custChoice = Integer.parseInt(sc.nextLine());
+				}catch(NumberFormatException e) {}
+				
+			switch(custChoice) {
+			case 1:
+				log.info("1) Under construction");
+				break;
+			case 2:
+				log.info("Enter a valid account number to view the balance ");
+				try {
+					int account_number = Integer.parseInt(sc.nextLine());
+					List<Account> getBalance = accountDAO.viewBalance(account_number);
+					if(getBalance!=null && getBalance.size()>0) {
+						log.info("There are "+getBalance.size()+" transactions with this account nummber in the database. Printing their details now.");
+						log.info("");
+						for(Account a:getBalance) {
+							log.info(a);
+						}
+				}
+				}catch(NumberFormatException e) {
+				log.info("Account number cannot include special character, symbols, or white spaces");
+				log.info("");
+				
+				} catch (BusinessException e) {
+				log.info(e.getMessage());
+				}
+			case 3:
+				log.info("3) Under construction");
+				break;
+			case 4:
+				log.info("4) Under construction");
+				break;
+			case 5:
+				log.info("5) Under construction");
+				break;
+			case 6:
+				
+				log.info("Enter a valid account number to get all their transactions: ");
+				try {
+					int account_number = Integer.parseInt(sc.nextLine());
+					List<Transaction> getTransaction = transactionDAO.viewTransactionsByAccountNumber(account_number);
+					if(getTransaction!=null && getTransaction.size()>0) {
+						log.info("There are "+getTransaction.size()+" transactions with this account nummber in the database. Printing their details now.");
+						log.info("");
+						for(Transaction t:getTransaction) {
+							log.info(t);
+						}
+				}
+				}catch(NumberFormatException e) {
+				log.info("Account number cannot include special character, symbols, or white spaces");
+				log.info("");
+				
+				} catch (BusinessException e) {
+				log.info(e.getMessage());
+				}
+				break;
+				
+			case 7:
+				log.info("Exiting....Thank you for using jason's banking app.");
+				break;
+			default:
+				log.info("Invalid menu option. Input a valid menu choice.");
+				log.info("");
+				
+				}
+			
+			}while(custChoice!=7);
 		
+		}
+			
+		
+		else if(choice==3) 
+			log.info("Exiting....Thank you for using jason's banking app.");
 		
 	
 		}
 	}
-}
+

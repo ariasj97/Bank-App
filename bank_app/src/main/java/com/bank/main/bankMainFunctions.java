@@ -34,9 +34,10 @@ import com.bank.model.Login;
 				
 				if(ch >=1 && ch <4)
 					return ch;
-				else 
+				else {
 					log.info("Invalid menu choice please try again.");
-
+					log.info("");
+				}
 			}while(true);
 		
 		}
@@ -54,6 +55,7 @@ import com.bank.model.Login;
 				Login login = loginDAO.credentialVerification(username,password);
 				if(login !=null) {
 					log.info("Successfully Logged In As Customer! ");
+					log.info("");
 					log.info("Your user ID is: "+ login.getUser_id());
 					valid = true;
 				}
@@ -78,7 +80,9 @@ import com.bank.model.Login;
 				Employee employee = employeeDAO.employeeLogin(user_id, account_number);
 				if(employee !=null) {
 					log.info("Successfully Logged In As Employee! ");
+					log.info("");
 					log.info("Your user ID is: "+ employee.getEmployee_id());
+					log.info("");
 					valid = true;
 				}
 			}catch(BusinessException e) {

@@ -9,8 +9,5 @@ import com.bank.model.Transaction;
 
 public interface EmployeeService {
 	public int newCustomer(Customer customer)throws BusinessException;
-	public List<Customer> viewAllCustomers() throws BusinessException;
-	public List<Customer> viewCustomerByCustomerName(String name)throws BusinessException;
-	public boolean newCustomerValidation(int credit_score, double balance);
-	public List<Transaction> viewTransactionsByAccountNumber(int account_number) throws BusinessException;
+	public void newCustomerValidation(int credit_score) throws BusinessException;
 }
