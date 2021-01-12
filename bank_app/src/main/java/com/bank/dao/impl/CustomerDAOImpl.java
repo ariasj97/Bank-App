@@ -76,27 +76,25 @@ public class CustomerDAOImpl implements CustomerDAO {
 	}
 
 	@Override
-	public double viewBalance(int account_num) {
-		// TODO Auto-generated method stub
-		return 0;
-	}
-
-	@Override
-	public double withdrawl(int amount, int account_num) {
-		// TODO Auto-generated method stub
-		return 0;
-	}
-
-	@Override
-	public double deposit(int amount, int account_num) {
-		// TODO Auto-generated method stub
-		return 0;
-	}
-
-	@Override
-	public double transferFunds(int account_num1, int account_num2, int amount) {
-		// TODO Auto-generated method stub
-		return 0;
+	public int newCustomer(Customer customer) throws BusinessException {
+		int c= 0;
+		try(Connection connection = PostgresqlConnection.getConnection()){
+			String sql ="insert into public.customer(user_id,name,street_address,dob,credit_score) values(?,?,?,?,?) ";
+			PreparedStatement preparedStatement =connection.prepareStatement(sql);
+			preparedStatement.setInt(1, customer.getCustomer_id());
+			preparedStatement.setString(2, customer.getName());
+			preparedStatement.setString(3, customer.getStreet_address());
+			preparedStatement.setDate(4, new java.sql.Date(customer.getDob().getTime()));
+			preparedStatement.setInt(5, customer.getCredit_score());
+			
+			c= preparedStatement.executeUpdate();
+			
+			
+		} catch (ClassNotFoundException | SQLException e) {
+			System.out.println(e);
+			throw new BusinessException("internal error occured contact sysadmin");
+		}
+		return c;
 	}
 
 }

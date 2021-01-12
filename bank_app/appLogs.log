@@ -516,3 +516,931 @@
 22:26 10-01-2021-INFO -com.bank.main.bankMain:6)View Transactions
 22:26 10-01-2021-INFO -com.bank.main.bankMain:7)Exit
 22:26 10-01-2021-INFO -com.bank.main.bankMain:Exiting....Thank you for using jason's banking app.
+10:36 11-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+10:36 11-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+10:36 11-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+10:36 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+10:36 11-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+10:36 11-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+10:36 11-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+10:36 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+10:36 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+10:36 11-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+10:36 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+10:36 11-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+10:36 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+10:36 11-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+10:36 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+10:36 11-01-2021-INFO -com.bank.main.bankMain:1)New Customer Menu
+10:36 11-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+10:36 11-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+10:36 11-01-2021-INFO -com.bank.main.bankMain:4)View transactions by account number
+10:36 11-01-2021-INFO -com.bank.main.bankMain:5)Exit
+10:36 11-01-2021-INFO -com.bank.main.bankMain:
+10:36 11-01-2021-INFO -com.bank.main.bankMain:New Customer Menu
+10:36 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+10:36 11-01-2021-INFO -com.bank.main.bankMain:1)Validate A New Customer
+10:36 11-01-2021-INFO -com.bank.main.bankMain:2)Register a new Customer's username and password
+10:36 11-01-2021-INFO -com.bank.main.bankMain:3)Register a new Customer's details
+10:36 11-01-2021-INFO -com.bank.main.bankMain:4)Exit
+10:36 11-01-2021-INFO -com.bank.main.bankMain:Enter the new Customer's Details
+10:36 11-01-2021-INFO -com.bank.main.bankMain:User ID: 
+10:37 11-01-2021-INFO -com.bank.main.bankMain:Username: 
+10:37 11-01-2021-INFO -com.bank.main.bankMain:Password: 
+10:37 11-01-2021-INFO -com.bank.main.bankMain:New Customer added to the database
+10:37 11-01-2021-INFO -com.bank.main.bankMain:
+10:37 11-01-2021-INFO -com.bank.main.bankMain:
+10:37 11-01-2021-INFO -com.bank.main.bankMain:New Customer Menu
+10:37 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+10:37 11-01-2021-INFO -com.bank.main.bankMain:1)Validate A New Customer
+10:37 11-01-2021-INFO -com.bank.main.bankMain:2)Register a new Customer's username and password
+10:37 11-01-2021-INFO -com.bank.main.bankMain:3)Register a new Customer's details
+10:37 11-01-2021-INFO -com.bank.main.bankMain:4)Exit
+10:38 11-01-2021-INFO -com.bank.main.bankMain:Enter the new Customer's Details
+10:38 11-01-2021-INFO -com.bank.main.bankMain:User Id: 
+10:38 11-01-2021-INFO -com.bank.main.bankMain:Name: 
+10:38 11-01-2021-INFO -com.bank.main.bankMain:Street Adress: 
+10:38 11-01-2021-INFO -com.bank.main.bankMain:Credit Score: 
+10:38 11-01-2021-INFO -com.bank.main.bankMain:Date of Birth (format:MM-dd-yyyy): 
+10:38 11-01-2021-INFO -com.bank.service.impl.EmployeeServiceImpl:internal error occured contact sysadmin
+10:38 11-01-2021-INFO -com.bank.main.bankMain:
+10:38 11-01-2021-INFO -com.bank.main.bankMain:New Customer Menu
+10:38 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+10:38 11-01-2021-INFO -com.bank.main.bankMain:1)Validate A New Customer
+10:38 11-01-2021-INFO -com.bank.main.bankMain:2)Register a new Customer's username and password
+10:38 11-01-2021-INFO -com.bank.main.bankMain:3)Register a new Customer's details
+10:38 11-01-2021-INFO -com.bank.main.bankMain:4)Exit
+13:38 11-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+13:38 11-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+13:38 11-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+13:38 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+13:38 11-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+13:38 11-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+13:38 11-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+13:38 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your username:
+13:38 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your password:
+13:38 11-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Customer! 
+13:38 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+13:38 11-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1001
+13:38 11-01-2021-INFO -com.bank.main.bankMain:Customer Menu
+13:38 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+13:38 11-01-2021-INFO -com.bank.main.bankMain:1)New Customer Menu
+13:38 11-01-2021-INFO -com.bank.main.bankMain:2)View Balance of specified account
+13:38 11-01-2021-INFO -com.bank.main.bankMain:3)Withdraw
+13:38 11-01-2021-INFO -com.bank.main.bankMain:4)Deposit
+13:38 11-01-2021-INFO -com.bank.main.bankMain:5)Transfer Funds
+13:38 11-01-2021-INFO -com.bank.main.bankMain:6)View Transactions
+13:38 11-01-2021-INFO -com.bank.main.bankMain:7)Exit
+13:38 11-01-2021-INFO -com.bank.main.bankMain:4) Enter the account number you wish to deposit to: 
+13:39 11-01-2021-INFO -com.bank.main.bankMain:4) Enter the amount you wish to deposit to account number 100000000:
+13:39 11-01-2021-INFO -com.bank.main.bankMain:internal error occured contact sysadmin
+13:39 11-01-2021-INFO -com.bank.main.bankMain:Customer Menu
+13:39 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+13:39 11-01-2021-INFO -com.bank.main.bankMain:1)New Customer Menu
+13:39 11-01-2021-INFO -com.bank.main.bankMain:2)View Balance of specified account
+13:39 11-01-2021-INFO -com.bank.main.bankMain:3)Withdraw
+13:39 11-01-2021-INFO -com.bank.main.bankMain:4)Deposit
+13:39 11-01-2021-INFO -com.bank.main.bankMain:5)Transfer Funds
+13:39 11-01-2021-INFO -com.bank.main.bankMain:6)View Transactions
+13:39 11-01-2021-INFO -com.bank.main.bankMain:7)Exit
+13:42 11-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+13:42 11-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+13:42 11-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+13:42 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+13:42 11-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+13:42 11-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+13:42 11-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+13:42 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your username:
+13:42 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your password:
+13:42 11-01-2021-INFO -com.bank.main.bankMainFunctions:com.bank.exception.BusinessException: No combination of inputted username and password found
+13:42 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your username:
+13:42 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your password:
+13:42 11-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Customer! 
+13:42 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+13:42 11-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1001
+13:42 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your username:
+13:42 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your password:
+13:42 11-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Customer! 
+13:42 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+13:42 11-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1001
+13:42 11-01-2021-INFO -com.bank.main.bankMain:Customer Menu
+13:42 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+13:42 11-01-2021-INFO -com.bank.main.bankMain:1)New Customer Menu
+13:42 11-01-2021-INFO -com.bank.main.bankMain:2)View Balance of specified account
+13:42 11-01-2021-INFO -com.bank.main.bankMain:3)Withdraw
+13:42 11-01-2021-INFO -com.bank.main.bankMain:4)Deposit
+13:42 11-01-2021-INFO -com.bank.main.bankMain:5)Transfer Funds
+13:42 11-01-2021-INFO -com.bank.main.bankMain:6)View Transactions
+13:42 11-01-2021-INFO -com.bank.main.bankMain:7)Exit
+13:42 11-01-2021-INFO -com.bank.main.bankMain:4) Enter the account number you wish to deposit to: 
+13:42 11-01-2021-INFO -com.bank.main.bankMain:4) Enter the amount you wish to deposit to account number 100000000:
+13:43 11-01-2021-INFO -com.bank.main.bankMain:Successfully Deposited $25.25to account number: 100000000
+13:43 11-01-2021-INFO -com.bank.main.bankMain:
+13:43 11-01-2021-INFO -com.bank.main.bankMain:Customer Menu
+13:43 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+13:43 11-01-2021-INFO -com.bank.main.bankMain:1)New Customer Menu
+13:43 11-01-2021-INFO -com.bank.main.bankMain:2)View Balance of specified account
+13:43 11-01-2021-INFO -com.bank.main.bankMain:3)Withdraw
+13:43 11-01-2021-INFO -com.bank.main.bankMain:4)Deposit
+13:43 11-01-2021-INFO -com.bank.main.bankMain:5)Transfer Funds
+13:43 11-01-2021-INFO -com.bank.main.bankMain:6)View Transactions
+13:43 11-01-2021-INFO -com.bank.main.bankMain:7)Exit
+13:43 11-01-2021-INFO -com.bank.main.bankMain:Enter a valid account number to view the balance 
+13:43 11-01-2021-INFO -com.bank.main.bankMain:There are 1 transactions with this account nummber in the database. Printing their details now.
+13:43 11-01-2021-INFO -com.bank.main.bankMain:
+13:43 11-01-2021-INFO -com.bank.main.bankMain:Account [user_id=1001, balance=10025.7, account_type=savings, account_number=100000000]
+13:43 11-01-2021-INFO -com.bank.main.bankMain:3) Under construction
+13:43 11-01-2021-INFO -com.bank.main.bankMain:Customer Menu
+13:43 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+13:43 11-01-2021-INFO -com.bank.main.bankMain:1)New Customer Menu
+13:43 11-01-2021-INFO -com.bank.main.bankMain:2)View Balance of specified account
+13:43 11-01-2021-INFO -com.bank.main.bankMain:3)Withdraw
+13:43 11-01-2021-INFO -com.bank.main.bankMain:4)Deposit
+13:43 11-01-2021-INFO -com.bank.main.bankMain:5)Transfer Funds
+13:43 11-01-2021-INFO -com.bank.main.bankMain:6)View Transactions
+13:43 11-01-2021-INFO -com.bank.main.bankMain:7)Exit
+13:52 11-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+13:52 11-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+13:52 11-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+13:52 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+13:52 11-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+13:52 11-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+13:52 11-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+13:52 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your username:
+13:52 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your password:
+13:52 11-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Customer! 
+13:52 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+13:52 11-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1001
+13:52 11-01-2021-INFO -com.bank.main.bankMain:Customer Menu
+13:52 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+13:52 11-01-2021-INFO -com.bank.main.bankMain:1)New Customer Menu
+13:52 11-01-2021-INFO -com.bank.main.bankMain:2)View Balance of specified account
+13:52 11-01-2021-INFO -com.bank.main.bankMain:3)Withdraw
+13:52 11-01-2021-INFO -com.bank.main.bankMain:4)Deposit
+13:52 11-01-2021-INFO -com.bank.main.bankMain:5)Transfer Funds
+13:52 11-01-2021-INFO -com.bank.main.bankMain:6)View Transactions
+13:52 11-01-2021-INFO -com.bank.main.bankMain:7)Exit
+13:52 11-01-2021-INFO -com.bank.main.bankMain:4) Enter the account number you wish to withdraw from: 
+13:52 11-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+13:52 11-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+13:52 11-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+13:52 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+13:52 11-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+13:52 11-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+13:52 11-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+13:52 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your username:
+13:52 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your password:
+13:52 11-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Customer! 
+13:52 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+13:52 11-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1001
+13:52 11-01-2021-INFO -com.bank.main.bankMain:Customer Menu
+13:52 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+13:52 11-01-2021-INFO -com.bank.main.bankMain:1)New Customer Menu
+13:52 11-01-2021-INFO -com.bank.main.bankMain:2)View Balance of specified account
+13:52 11-01-2021-INFO -com.bank.main.bankMain:3)Withdraw
+13:52 11-01-2021-INFO -com.bank.main.bankMain:4)Deposit
+13:52 11-01-2021-INFO -com.bank.main.bankMain:5)Transfer Funds
+13:52 11-01-2021-INFO -com.bank.main.bankMain:6)View Transactions
+13:52 11-01-2021-INFO -com.bank.main.bankMain:7)Exit
+13:53 11-01-2021-INFO -com.bank.main.bankMain:4) Enter the account number you wish to withdraw from: 
+13:53 11-01-2021-INFO -com.bank.main.bankMain:4) Enter the amount you wish to withdraw from account number 100000000:
+13:53 11-01-2021-INFO -com.bank.main.bankMain:Successfully Deposited $300.0 to account number: 100000000
+13:53 11-01-2021-INFO -com.bank.main.bankMain:
+13:53 11-01-2021-INFO -com.bank.main.bankMain:Customer Menu
+13:53 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+13:53 11-01-2021-INFO -com.bank.main.bankMain:1)New Customer Menu
+13:53 11-01-2021-INFO -com.bank.main.bankMain:2)View Balance of specified account
+13:53 11-01-2021-INFO -com.bank.main.bankMain:3)Withdraw
+13:53 11-01-2021-INFO -com.bank.main.bankMain:4)Deposit
+13:53 11-01-2021-INFO -com.bank.main.bankMain:5)Transfer Funds
+13:53 11-01-2021-INFO -com.bank.main.bankMain:6)View Transactions
+13:53 11-01-2021-INFO -com.bank.main.bankMain:7)Exit
+13:53 11-01-2021-INFO -com.bank.main.bankMain:4) Enter the account number you wish to withdraw from: 
+13:53 11-01-2021-INFO -com.bank.main.bankMain:4) Enter the amount you wish to withdraw from account number 100000000:
+13:54 11-01-2021-INFO -com.bank.main.bankMain:Successfully Deposited $100.0 to account number: 100000000
+13:54 11-01-2021-INFO -com.bank.main.bankMain:
+13:54 11-01-2021-INFO -com.bank.main.bankMain:Customer Menu
+13:54 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+13:54 11-01-2021-INFO -com.bank.main.bankMain:1)New Customer Menu
+13:54 11-01-2021-INFO -com.bank.main.bankMain:2)View Balance of specified account
+13:54 11-01-2021-INFO -com.bank.main.bankMain:3)Withdraw
+13:54 11-01-2021-INFO -com.bank.main.bankMain:4)Deposit
+13:54 11-01-2021-INFO -com.bank.main.bankMain:5)Transfer Funds
+13:54 11-01-2021-INFO -com.bank.main.bankMain:6)View Transactions
+13:54 11-01-2021-INFO -com.bank.main.bankMain:7)Exit
+13:54 11-01-2021-INFO -com.bank.main.bankMain:Exiting....Thank you for using jason's banking app.
+13:54 11-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+13:54 11-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+13:54 11-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+13:54 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+13:54 11-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+13:54 11-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+13:54 11-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+13:54 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your username:
+13:54 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your password:
+13:54 11-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Customer! 
+13:54 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+13:54 11-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1001
+13:54 11-01-2021-INFO -com.bank.main.bankMain:Customer Menu
+13:54 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+13:54 11-01-2021-INFO -com.bank.main.bankMain:1)New Customer Menu
+13:54 11-01-2021-INFO -com.bank.main.bankMain:2)View Balance of specified account
+13:54 11-01-2021-INFO -com.bank.main.bankMain:3)Withdraw
+13:54 11-01-2021-INFO -com.bank.main.bankMain:4)Deposit
+13:54 11-01-2021-INFO -com.bank.main.bankMain:5)Transfer Funds
+13:54 11-01-2021-INFO -com.bank.main.bankMain:6)View Transactions
+13:54 11-01-2021-INFO -com.bank.main.bankMain:7)Exit
+13:55 11-01-2021-INFO -com.bank.main.bankMain:4) Enter the account number you wish to withdraw from: 
+13:55 11-01-2021-INFO -com.bank.main.bankMain:4) Enter the amount you wish to withdraw from account number 100000000:
+13:55 11-01-2021-INFO -com.bank.main.bankMain:Successfully Withdrew $400.0 to account number: 100000000
+13:55 11-01-2021-INFO -com.bank.main.bankMain:
+13:55 11-01-2021-INFO -com.bank.main.bankMain:Customer Menu
+13:55 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+13:55 11-01-2021-INFO -com.bank.main.bankMain:1)New Customer Menu
+13:55 11-01-2021-INFO -com.bank.main.bankMain:2)View Balance of specified account
+13:55 11-01-2021-INFO -com.bank.main.bankMain:3)Withdraw
+13:55 11-01-2021-INFO -com.bank.main.bankMain:4)Deposit
+13:55 11-01-2021-INFO -com.bank.main.bankMain:5)Transfer Funds
+13:55 11-01-2021-INFO -com.bank.main.bankMain:6)View Transactions
+13:55 11-01-2021-INFO -com.bank.main.bankMain:7)Exit
+13:55 11-01-2021-INFO -com.bank.main.bankMain:Enter a valid account number to view the balance 
+13:55 11-01-2021-INFO -com.bank.main.bankMain:Printing the balance of 100000000 now.
+13:55 11-01-2021-INFO -com.bank.main.bankMain:
+13:55 11-01-2021-INFO -com.bank.main.bankMain:Account [user_id=1001, balance=10025.7, account_type=savings, account_number=100000000]
+13:55 11-01-2021-INFO -com.bank.main.bankMain:4) Enter the account number you wish to withdraw from: 
+13:55 11-01-2021-INFO -com.bank.main.bankMain:4) Enter the amount you wish to withdraw from account number 7:
+15:20 11-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+15:20 11-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+15:20 11-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+15:20 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+15:20 11-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+15:20 11-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+15:20 11-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+15:20 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your username:
+15:20 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your password:
+15:20 11-01-2021-INFO -com.bank.main.bankMainFunctions:com.bank.exception.BusinessException: No combination of inputted username and password found
+15:20 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your username:
+15:20 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your password:
+15:20 11-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Customer! 
+15:20 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+15:20 11-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1001
+15:20 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your username:
+15:21 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your password:
+15:21 11-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Customer! 
+15:21 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+15:21 11-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1001
+15:21 11-01-2021-INFO -com.bank.main.bankMain:Customer Menu
+15:21 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+15:21 11-01-2021-INFO -com.bank.main.bankMain:1)New Customer Menu
+15:21 11-01-2021-INFO -com.bank.main.bankMain:2)View Balance of specified account
+15:21 11-01-2021-INFO -com.bank.main.bankMain:3)Withdraw
+15:21 11-01-2021-INFO -com.bank.main.bankMain:4)Deposit
+15:21 11-01-2021-INFO -com.bank.main.bankMain:5)Transfer Funds
+15:21 11-01-2021-INFO -com.bank.main.bankMain:6)View Transactions
+15:21 11-01-2021-INFO -com.bank.main.bankMain:7)Exit
+15:21 11-01-2021-INFO -com.bank.main.bankMain:Enter a valid account number to view the balance 
+15:21 11-01-2021-INFO -com.bank.main.bankMain:Printing the balance of 100000000 now.
+15:21 11-01-2021-INFO -com.bank.main.bankMain:Balance: $10025.7
+15:21 11-01-2021-INFO -com.bank.main.bankMain:4) Enter the account number you wish to withdraw from: 
+15:49 11-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+15:49 11-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+15:49 11-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+15:49 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+15:49 11-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+15:49 11-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+15:49 11-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+15:49 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+15:49 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+15:49 11-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+15:49 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+15:49 11-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+15:49 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+15:49 11-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+15:49 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+15:49 11-01-2021-INFO -com.bank.main.bankMain:1)New Customer Menu
+15:49 11-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+15:49 11-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+15:49 11-01-2021-INFO -com.bank.main.bankMain:4)View transactions by account number
+15:49 11-01-2021-INFO -com.bank.main.bankMain:5)Exit
+15:50 11-01-2021-INFO -com.bank.main.bankMain:
+15:50 11-01-2021-INFO -com.bank.main.bankMain:New Customer Menu
+15:50 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+15:50 11-01-2021-INFO -com.bank.main.bankMain:1)Validate A New Customer
+15:50 11-01-2021-INFO -com.bank.main.bankMain:2)Register a new Customer's username and password
+15:50 11-01-2021-INFO -com.bank.main.bankMain:3)Register a new Customer's details
+15:50 11-01-2021-INFO -com.bank.main.bankMain:4)Exit
+15:50 11-01-2021-INFO -com.bank.main.bankMain:Enter the new Customer's Details
+15:50 11-01-2021-INFO -com.bank.main.bankMain:Username: 
+15:50 11-01-2021-INFO -com.bank.main.bankMain:Password: 
+15:50 11-01-2021-INFO -com.bank.main.bankMain:New Customer added to the database
+15:50 11-01-2021-INFO -com.bank.main.bankMain:
+15:50 11-01-2021-INFO -com.bank.main.bankMain:
+15:50 11-01-2021-INFO -com.bank.main.bankMain:New Customer Menu
+15:50 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+15:50 11-01-2021-INFO -com.bank.main.bankMain:1)Validate A New Customer
+15:50 11-01-2021-INFO -com.bank.main.bankMain:2)Register a new Customer's username and password
+15:50 11-01-2021-INFO -com.bank.main.bankMain:3)Register a new Customer's details
+15:50 11-01-2021-INFO -com.bank.main.bankMain:4)Exit
+15:52 11-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+15:52 11-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+15:52 11-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+15:52 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+15:52 11-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+15:52 11-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+15:52 11-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+15:52 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+15:52 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+15:52 11-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+15:52 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+15:52 11-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+15:52 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+15:52 11-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+15:52 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+15:52 11-01-2021-INFO -com.bank.main.bankMain:1)New Customer Menu
+15:52 11-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+15:52 11-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+15:52 11-01-2021-INFO -com.bank.main.bankMain:4)View transactions by account number
+15:52 11-01-2021-INFO -com.bank.main.bankMain:5)Exit
+15:52 11-01-2021-INFO -com.bank.main.bankMain:
+15:52 11-01-2021-INFO -com.bank.main.bankMain:New Customer Menu
+15:52 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+15:52 11-01-2021-INFO -com.bank.main.bankMain:1)Validate A New Customer
+15:52 11-01-2021-INFO -com.bank.main.bankMain:2)Register a new Customer's username and password
+15:52 11-01-2021-INFO -com.bank.main.bankMain:3)Register a new Customer's details
+15:52 11-01-2021-INFO -com.bank.main.bankMain:4)Exit
+15:52 11-01-2021-INFO -com.bank.main.bankMain:Enter the new Customer's Details
+15:52 11-01-2021-INFO -com.bank.main.bankMain:Username: 
+15:52 11-01-2021-INFO -com.bank.main.bankMain:Password: 
+15:52 11-01-2021-INFO -com.bank.service.impl.LoginServiceImpl:internal error occured contact sysadmin
+15:52 11-01-2021-INFO -com.bank.main.bankMain:
+15:52 11-01-2021-INFO -com.bank.main.bankMain:New Customer Menu
+15:52 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+15:52 11-01-2021-INFO -com.bank.main.bankMain:1)Validate A New Customer
+15:52 11-01-2021-INFO -com.bank.main.bankMain:2)Register a new Customer's username and password
+15:52 11-01-2021-INFO -com.bank.main.bankMain:3)Register a new Customer's details
+15:52 11-01-2021-INFO -com.bank.main.bankMain:4)Exit
+15:59 11-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+15:59 11-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+15:59 11-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+15:59 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+15:59 11-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+15:59 11-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+15:59 11-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+15:59 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+15:59 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+15:59 11-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+15:59 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+15:59 11-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+15:59 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+15:59 11-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+15:59 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+15:59 11-01-2021-INFO -com.bank.main.bankMain:1)New Customer Menu
+15:59 11-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+15:59 11-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+15:59 11-01-2021-INFO -com.bank.main.bankMain:4)View transactions by account number
+15:59 11-01-2021-INFO -com.bank.main.bankMain:5)Exit
+15:59 11-01-2021-INFO -com.bank.main.bankMain:
+15:59 11-01-2021-INFO -com.bank.main.bankMain:New Customer Menu
+15:59 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+15:59 11-01-2021-INFO -com.bank.main.bankMain:1)Validate A New Customer
+15:59 11-01-2021-INFO -com.bank.main.bankMain:2)Register a new Customer's username and password
+15:59 11-01-2021-INFO -com.bank.main.bankMain:3)Register a new Customer's details
+15:59 11-01-2021-INFO -com.bank.main.bankMain:4)Exit
+15:59 11-01-2021-INFO -com.bank.main.bankMain:Enter the new Customer's Details
+15:59 11-01-2021-INFO -com.bank.main.bankMain:Username: 
+15:59 11-01-2021-INFO -com.bank.main.bankMain:Password: 
+15:59 11-01-2021-INFO -com.bank.service.impl.LoginServiceImpl:internal error occured contact sysadmin
+15:59 11-01-2021-INFO -com.bank.main.bankMain:
+15:59 11-01-2021-INFO -com.bank.main.bankMain:New Customer Menu
+15:59 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+15:59 11-01-2021-INFO -com.bank.main.bankMain:1)Validate A New Customer
+15:59 11-01-2021-INFO -com.bank.main.bankMain:2)Register a new Customer's username and password
+15:59 11-01-2021-INFO -com.bank.main.bankMain:3)Register a new Customer's details
+15:59 11-01-2021-INFO -com.bank.main.bankMain:4)Exit
+16:04 11-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+16:04 11-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+16:04 11-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+16:04 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+16:04 11-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+16:04 11-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+16:04 11-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+16:04 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your username:
+16:04 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your password:
+16:04 11-01-2021-INFO -com.bank.main.bankMainFunctions:com.bank.exception.BusinessException: No combination of inputted username and password found
+16:04 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your username:
+16:04 11-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+16:04 11-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+16:04 11-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+16:04 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+16:04 11-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+16:04 11-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+16:04 11-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+16:04 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+16:04 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+16:05 11-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+16:05 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+16:05 11-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+16:05 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+16:05 11-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+16:05 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:05 11-01-2021-INFO -com.bank.main.bankMain:1)New Customer Menu
+16:05 11-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+16:05 11-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+16:05 11-01-2021-INFO -com.bank.main.bankMain:4)View transactions by account number
+16:05 11-01-2021-INFO -com.bank.main.bankMain:5)Exit
+16:05 11-01-2021-INFO -com.bank.main.bankMain:
+16:05 11-01-2021-INFO -com.bank.main.bankMain:New Customer Menu
+16:05 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:05 11-01-2021-INFO -com.bank.main.bankMain:1)Validate A New Customer
+16:05 11-01-2021-INFO -com.bank.main.bankMain:2)Register a new Customer's username and password
+16:05 11-01-2021-INFO -com.bank.main.bankMain:3)Register a new Customer's details
+16:05 11-01-2021-INFO -com.bank.main.bankMain:4)Exit
+16:05 11-01-2021-INFO -com.bank.main.bankMain:Enter the new Customer's Details
+16:05 11-01-2021-INFO -com.bank.main.bankMain:Username: 
+16:05 11-01-2021-INFO -com.bank.main.bankMain:Password: 
+16:05 11-01-2021-INFO -com.bank.service.impl.LoginServiceImpl:internal error occured contact sysadmin
+16:05 11-01-2021-INFO -com.bank.main.bankMain:
+16:05 11-01-2021-INFO -com.bank.main.bankMain:New Customer Menu
+16:05 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:05 11-01-2021-INFO -com.bank.main.bankMain:1)Validate A New Customer
+16:05 11-01-2021-INFO -com.bank.main.bankMain:2)Register a new Customer's username and password
+16:05 11-01-2021-INFO -com.bank.main.bankMain:3)Register a new Customer's details
+16:05 11-01-2021-INFO -com.bank.main.bankMain:4)Exit
+16:05 11-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+16:05 11-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+16:05 11-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+16:05 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+16:05 11-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+16:05 11-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+16:05 11-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+16:05 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+16:05 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+16:06 11-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+16:06 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+16:06 11-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+16:06 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+16:06 11-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+16:06 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:06 11-01-2021-INFO -com.bank.main.bankMain:1)New Customer Menu
+16:06 11-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+16:06 11-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+16:06 11-01-2021-INFO -com.bank.main.bankMain:4)View transactions by account number
+16:06 11-01-2021-INFO -com.bank.main.bankMain:5)Exit
+16:06 11-01-2021-INFO -com.bank.main.bankMain:
+16:06 11-01-2021-INFO -com.bank.main.bankMain:New Customer Menu
+16:06 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:06 11-01-2021-INFO -com.bank.main.bankMain:1)Validate A New Customer
+16:06 11-01-2021-INFO -com.bank.main.bankMain:2)Register a new Customer's username and password
+16:06 11-01-2021-INFO -com.bank.main.bankMain:3)Register a new Customer's details
+16:06 11-01-2021-INFO -com.bank.main.bankMain:4)Exit
+16:06 11-01-2021-INFO -com.bank.main.bankMain:Enter the new Customer's Details
+16:06 11-01-2021-INFO -com.bank.main.bankMain:Username: 
+16:06 11-01-2021-INFO -com.bank.main.bankMain:Password: 
+16:06 11-01-2021-INFO -com.bank.service.impl.LoginServiceImpl:internal error occured contact sysadmin
+16:06 11-01-2021-INFO -com.bank.main.bankMain:
+16:06 11-01-2021-INFO -com.bank.main.bankMain:New Customer Menu
+16:06 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:06 11-01-2021-INFO -com.bank.main.bankMain:1)Validate A New Customer
+16:06 11-01-2021-INFO -com.bank.main.bankMain:2)Register a new Customer's username and password
+16:06 11-01-2021-INFO -com.bank.main.bankMain:3)Register a new Customer's details
+16:06 11-01-2021-INFO -com.bank.main.bankMain:4)Exit
+16:06 11-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+16:06 11-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+16:06 11-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+16:06 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+16:06 11-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+16:06 11-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+16:06 11-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+16:06 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+16:06 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+16:06 11-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+16:06 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+16:06 11-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+16:06 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+16:06 11-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+16:06 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:06 11-01-2021-INFO -com.bank.main.bankMain:1)New Customer Menu
+16:06 11-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+16:06 11-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+16:06 11-01-2021-INFO -com.bank.main.bankMain:4)View transactions by account number
+16:06 11-01-2021-INFO -com.bank.main.bankMain:5)Exit
+16:07 11-01-2021-INFO -com.bank.main.bankMain:
+16:07 11-01-2021-INFO -com.bank.main.bankMain:New Customer Menu
+16:07 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:07 11-01-2021-INFO -com.bank.main.bankMain:1)Validate A New Customer
+16:07 11-01-2021-INFO -com.bank.main.bankMain:2)Register a new Customer's username and password
+16:07 11-01-2021-INFO -com.bank.main.bankMain:3)Register a new Customer's details
+16:07 11-01-2021-INFO -com.bank.main.bankMain:4)Exit
+16:07 11-01-2021-INFO -com.bank.main.bankMain:Enter the new Customer's Details
+16:07 11-01-2021-INFO -com.bank.main.bankMain:Username: 
+16:07 11-01-2021-INFO -com.bank.main.bankMain:Password: 
+16:07 11-01-2021-INFO -com.bank.service.impl.LoginServiceImpl:internal error occured contact sysadmin
+16:07 11-01-2021-INFO -com.bank.main.bankMain:
+16:07 11-01-2021-INFO -com.bank.main.bankMain:New Customer Menu
+16:07 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:07 11-01-2021-INFO -com.bank.main.bankMain:1)Validate A New Customer
+16:07 11-01-2021-INFO -com.bank.main.bankMain:2)Register a new Customer's username and password
+16:07 11-01-2021-INFO -com.bank.main.bankMain:3)Register a new Customer's details
+16:07 11-01-2021-INFO -com.bank.main.bankMain:4)Exit
+16:08 11-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+16:08 11-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+16:08 11-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+16:08 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+16:08 11-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+16:08 11-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+16:08 11-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+16:08 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+16:08 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your account_number:
+16:08 11-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Employee! 
+16:08 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+16:08 11-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1000
+16:08 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+16:08 11-01-2021-INFO -com.bank.main.bankMain:Employee Menu
+16:08 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:08 11-01-2021-INFO -com.bank.main.bankMain:1)New Customer Menu
+16:08 11-01-2021-INFO -com.bank.main.bankMain:2)View all customer details
+16:08 11-01-2021-INFO -com.bank.main.bankMain:3)View details by customer name
+16:08 11-01-2021-INFO -com.bank.main.bankMain:4)View transactions by account number
+16:08 11-01-2021-INFO -com.bank.main.bankMain:5)Exit
+16:08 11-01-2021-INFO -com.bank.main.bankMain:
+16:08 11-01-2021-INFO -com.bank.main.bankMain:New Customer Menu
+16:08 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:08 11-01-2021-INFO -com.bank.main.bankMain:1)Validate A New Customer
+16:08 11-01-2021-INFO -com.bank.main.bankMain:2)Register a new Customer's username and password
+16:08 11-01-2021-INFO -com.bank.main.bankMain:3)Register a new Customer's details
+16:08 11-01-2021-INFO -com.bank.main.bankMain:4)Exit
+16:08 11-01-2021-INFO -com.bank.main.bankMain:Enter the new Customer's Details
+16:08 11-01-2021-INFO -com.bank.main.bankMain:Username: 
+16:08 11-01-2021-INFO -com.bank.main.bankMain:Password: 
+16:08 11-01-2021-INFO -com.bank.service.impl.LoginServiceImpl:internal error occured contact sysadmin
+16:08 11-01-2021-INFO -com.bank.main.bankMain:
+16:08 11-01-2021-INFO -com.bank.main.bankMain:New Customer Menu
+16:08 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:08 11-01-2021-INFO -com.bank.main.bankMain:1)Validate A New Customer
+16:08 11-01-2021-INFO -com.bank.main.bankMain:2)Register a new Customer's username and password
+16:08 11-01-2021-INFO -com.bank.main.bankMain:3)Register a new Customer's details
+16:08 11-01-2021-INFO -com.bank.main.bankMain:4)Exit
+16:37 11-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+16:37 11-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+16:37 11-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+16:37 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+16:37 11-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+16:37 11-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+16:37 11-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+16:37 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your username:
+16:37 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your password:
+16:37 11-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Customer! 
+16:37 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+16:37 11-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1001
+16:37 11-01-2021-INFO -com.bank.main.bankMain:Customer Menu
+16:37 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:37 11-01-2021-INFO -com.bank.main.bankMain:1)New Customer Menu
+16:37 11-01-2021-INFO -com.bank.main.bankMain:2)View Balance of specified account
+16:37 11-01-2021-INFO -com.bank.main.bankMain:3)Withdraw
+16:37 11-01-2021-INFO -com.bank.main.bankMain:4)Deposit
+16:37 11-01-2021-INFO -com.bank.main.bankMain:5)Transfer Funds
+16:37 11-01-2021-INFO -com.bank.main.bankMain:6)View Transactions
+16:37 11-01-2021-INFO -com.bank.main.bankMain:7)Exit
+16:37 11-01-2021-INFO -com.bank.main.bankMain:4) Enter the account number you wish to withdraw from: 
+16:37 11-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+16:37 11-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+16:37 11-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+16:37 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+16:37 11-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+16:37 11-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+16:37 11-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+16:37 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your username:
+16:38 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your password:
+16:38 11-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Customer! 
+16:38 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+16:38 11-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1001
+16:38 11-01-2021-INFO -com.bank.main.bankMain:Customer Menu
+16:38 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:38 11-01-2021-INFO -com.bank.main.bankMain:1)New Customer Menu
+16:38 11-01-2021-INFO -com.bank.main.bankMain:2)View Balance of specified account
+16:38 11-01-2021-INFO -com.bank.main.bankMain:3)Withdraw
+16:38 11-01-2021-INFO -com.bank.main.bankMain:4)Deposit
+16:38 11-01-2021-INFO -com.bank.main.bankMain:5)Transfer Funds
+16:38 11-01-2021-INFO -com.bank.main.bankMain:6)View Transactions
+16:38 11-01-2021-INFO -com.bank.main.bankMain:7)Exit
+16:38 11-01-2021-INFO -com.bank.main.bankMain:4) Enter the account number you wish to deposit to: 
+16:38 11-01-2021-INFO -com.bank.main.bankMain:4) Enter the amount you wish to deposit to account number 100000000:
+16:38 11-01-2021-INFO -com.bank.main.bankMain:Successfully Deposited $4.5E7 to account number: 100000000
+16:38 11-01-2021-INFO -com.bank.main.bankMain:
+16:38 11-01-2021-INFO -com.bank.main.bankMain:Customer Menu
+16:38 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:38 11-01-2021-INFO -com.bank.main.bankMain:1)New Customer Menu
+16:38 11-01-2021-INFO -com.bank.main.bankMain:2)View Balance of specified account
+16:38 11-01-2021-INFO -com.bank.main.bankMain:3)Withdraw
+16:38 11-01-2021-INFO -com.bank.main.bankMain:4)Deposit
+16:38 11-01-2021-INFO -com.bank.main.bankMain:5)Transfer Funds
+16:38 11-01-2021-INFO -com.bank.main.bankMain:6)View Transactions
+16:38 11-01-2021-INFO -com.bank.main.bankMain:7)Exit
+16:39 11-01-2021-INFO -com.bank.main.bankMain:4) Enter the account number you wish to withdraw from: 
+16:39 11-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+16:39 11-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+16:39 11-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+16:39 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+16:39 11-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+16:39 11-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+16:39 11-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+16:39 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your username:
+16:39 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your password:
+16:40 11-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Customer! 
+16:40 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+16:40 11-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1001
+16:40 11-01-2021-INFO -com.bank.main.bankMain:Customer Menu
+16:40 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:40 11-01-2021-INFO -com.bank.main.bankMain:1)New Customer Menu
+16:40 11-01-2021-INFO -com.bank.main.bankMain:2)View Balance of specified account
+16:40 11-01-2021-INFO -com.bank.main.bankMain:3)Withdraw
+16:40 11-01-2021-INFO -com.bank.main.bankMain:4)Deposit
+16:40 11-01-2021-INFO -com.bank.main.bankMain:5)Transfer Funds
+16:40 11-01-2021-INFO -com.bank.main.bankMain:6)View Transactions
+16:40 11-01-2021-INFO -com.bank.main.bankMain:7)Exit
+16:40 11-01-2021-INFO -com.bank.main.bankMain:4) Enter the account number you wish to withdraw from: 
+16:40 11-01-2021-INFO -com.bank.main.bankMain:4) Enter the amount you wish to withdraw from account number 100000000:
+16:40 11-01-2021-INFO -com.bank.main.bankMain:Balance cannot be less than amount
+16:40 11-01-2021-INFO -com.bank.main.bankMain:Customer Menu
+16:40 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+16:40 11-01-2021-INFO -com.bank.main.bankMain:1)New Customer Menu
+16:40 11-01-2021-INFO -com.bank.main.bankMain:2)View Balance of specified account
+16:40 11-01-2021-INFO -com.bank.main.bankMain:3)Withdraw
+16:40 11-01-2021-INFO -com.bank.main.bankMain:4)Deposit
+16:40 11-01-2021-INFO -com.bank.main.bankMain:5)Transfer Funds
+16:40 11-01-2021-INFO -com.bank.main.bankMain:6)View Transactions
+16:40 11-01-2021-INFO -com.bank.main.bankMain:7)Exit
+16:47 11-01-2021-INFO -com.bank.main.bankMain:Exiting....Thank you for using jason's banking app.
+17:24 11-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+17:24 11-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+17:24 11-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+17:24 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+17:24 11-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+17:24 11-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+17:24 11-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+17:24 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your username:
+17:25 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your password:
+17:25 11-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Customer! 
+17:25 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+17:25 11-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1001
+17:25 11-01-2021-INFO -com.bank.main.bankMain:Customer Menu
+17:25 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+17:25 11-01-2021-INFO -com.bank.main.bankMain:1)New Customer Menu
+17:25 11-01-2021-INFO -com.bank.main.bankMain:2)View Balance of specified account
+17:25 11-01-2021-INFO -com.bank.main.bankMain:3)Withdraw
+17:25 11-01-2021-INFO -com.bank.main.bankMain:4)Deposit
+17:25 11-01-2021-INFO -com.bank.main.bankMain:5)Transfer Funds
+17:25 11-01-2021-INFO -com.bank.main.bankMain:6)View Transactions
+17:25 11-01-2021-INFO -com.bank.main.bankMain:7)Exit
+17:25 11-01-2021-INFO -com.bank.main.bankMain:4) Enter the account number you wish to tranfer funds to: 
+17:25 11-01-2021-INFO -com.bank.main.bankMain:4) Enter the account number you wish to tranfer funds from: 
+17:26 11-01-2021-INFO -com.bank.main.bankMain:4) Enter the amount you wish to transg to account number 100000000:
+17:26 11-01-2021-INFO -com.bank.main.bankMain:Successfully Deposited $142.75 to account number: 100000000
+17:26 11-01-2021-INFO -com.bank.main.bankMain:
+17:26 11-01-2021-INFO -com.bank.main.bankMain:Enter your account number to get all their transactions: 
+17:28 11-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+17:28 11-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+17:28 11-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+17:28 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+17:28 11-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+17:28 11-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+17:28 11-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+17:28 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your username:
+17:28 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your password:
+17:28 11-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Customer! 
+17:28 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+17:28 11-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1001
+17:28 11-01-2021-INFO -com.bank.main.bankMain:Customer Menu
+17:28 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+17:28 11-01-2021-INFO -com.bank.main.bankMain:1)New Customer Menu
+17:28 11-01-2021-INFO -com.bank.main.bankMain:2)View Balance of specified account
+17:28 11-01-2021-INFO -com.bank.main.bankMain:3)Withdraw
+17:28 11-01-2021-INFO -com.bank.main.bankMain:4)Deposit
+17:28 11-01-2021-INFO -com.bank.main.bankMain:5)Transfer Funds
+17:28 11-01-2021-INFO -com.bank.main.bankMain:6)View Transactions
+17:28 11-01-2021-INFO -com.bank.main.bankMain:7)Exit
+17:28 11-01-2021-INFO -com.bank.main.bankMain:4) Enter the account number you wish to tranfer funds to: 
+17:28 11-01-2021-INFO -com.bank.main.bankMain:4) Enter the account number you wish to tranfer funds from: 
+17:28 11-01-2021-INFO -com.bank.main.bankMain:4) Enter the amount you wish to transg to account number 100000001:
+17:29 11-01-2021-INFO -com.bank.main.bankMain:Successfully transfered $100.0 to account number: 100000001
+17:29 11-01-2021-INFO -com.bank.main.bankMain:
+17:29 11-01-2021-INFO -com.bank.main.bankMain:Enter your account number to get all their transactions: 
+17:30 11-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+17:30 11-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+17:30 11-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+17:30 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+17:30 11-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+17:30 11-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+17:30 11-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+17:30 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your user ID:
+17:30 11-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+17:30 11-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+17:30 11-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+17:30 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+17:30 11-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+17:30 11-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+17:30 11-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+17:30 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your username:
+17:30 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your password:
+17:30 11-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Customer! 
+17:30 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+17:30 11-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1001
+17:30 11-01-2021-INFO -com.bank.main.bankMain:Customer Menu
+17:30 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+17:30 11-01-2021-INFO -com.bank.main.bankMain:1)New Customer Menu
+17:30 11-01-2021-INFO -com.bank.main.bankMain:2)View Balance of specified account
+17:30 11-01-2021-INFO -com.bank.main.bankMain:3)Withdraw
+17:30 11-01-2021-INFO -com.bank.main.bankMain:4)Deposit
+17:30 11-01-2021-INFO -com.bank.main.bankMain:5)Transfer Funds
+17:30 11-01-2021-INFO -com.bank.main.bankMain:6)View Transactions
+17:30 11-01-2021-INFO -com.bank.main.bankMain:7)Exit
+17:30 11-01-2021-INFO -com.bank.main.bankMain:4) Enter the account number you wish to tranfer funds to: 
+17:31 11-01-2021-INFO -com.bank.main.bankMain:4) Enter the account number you wish to tranfer funds from: 
+17:31 11-01-2021-INFO -com.bank.main.bankMain:4) Enter the amount you wish to transg to account number 100000001:
+17:31 11-01-2021-INFO -com.bank.main.bankMain:Successfully transfered $100.0 to account number: 100000001
+17:31 11-01-2021-INFO -com.bank.main.bankMain:
+17:31 11-01-2021-INFO -com.bank.main.bankMain:Enter your account number to get all their transactions: 
+17:32 11-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+17:32 11-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+17:32 11-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+17:32 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+17:32 11-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+17:32 11-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+17:32 11-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+17:32 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your username:
+17:32 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your password:
+17:32 11-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Customer! 
+17:32 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+17:32 11-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1001
+17:32 11-01-2021-INFO -com.bank.main.bankMain:Customer Menu
+17:32 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+17:32 11-01-2021-INFO -com.bank.main.bankMain:1)New Customer Menu
+17:32 11-01-2021-INFO -com.bank.main.bankMain:2)View Balance of specified account
+17:32 11-01-2021-INFO -com.bank.main.bankMain:3)Withdraw
+17:32 11-01-2021-INFO -com.bank.main.bankMain:4)Deposit
+17:32 11-01-2021-INFO -com.bank.main.bankMain:5)Transfer Funds
+17:32 11-01-2021-INFO -com.bank.main.bankMain:6)View Transactions
+17:32 11-01-2021-INFO -com.bank.main.bankMain:7)Exit
+17:32 11-01-2021-INFO -com.bank.main.bankMain:4) Enter the account number you wish to tranfer funds to: 
+17:32 11-01-2021-INFO -com.bank.main.bankMain:4) Enter the account number you wish to tranfer funds from: 
+17:32 11-01-2021-INFO -com.bank.main.bankMain:4) Enter the amount you wish to transfer to account number 100000004:
+17:33 11-01-2021-INFO -com.bank.main.bankMain:Successfully transfered $14.5 to account number: 100000004
+17:33 11-01-2021-INFO -com.bank.main.bankMain:
+17:33 11-01-2021-INFO -com.bank.main.bankMain:Enter your account number to get all their transactions: 
+17:33 11-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+17:33 11-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+17:33 11-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+17:33 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+17:33 11-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+17:33 11-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+17:33 11-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+17:33 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your username:
+17:33 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your password:
+17:34 11-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Customer! 
+17:34 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+17:34 11-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1001
+17:34 11-01-2021-INFO -com.bank.main.bankMain:Customer Menu
+17:34 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+17:34 11-01-2021-INFO -com.bank.main.bankMain:1)New Customer Menu
+17:34 11-01-2021-INFO -com.bank.main.bankMain:2)View Balance of specified account
+17:34 11-01-2021-INFO -com.bank.main.bankMain:3)Withdraw
+17:34 11-01-2021-INFO -com.bank.main.bankMain:4)Deposit
+17:34 11-01-2021-INFO -com.bank.main.bankMain:5)Transfer Funds
+17:34 11-01-2021-INFO -com.bank.main.bankMain:6)View Transactions
+17:34 11-01-2021-INFO -com.bank.main.bankMain:7)Exit
+17:34 11-01-2021-INFO -com.bank.main.bankMain:4) Enter the account number you wish to tranfer funds to: 
+17:34 11-01-2021-INFO -com.bank.main.bankMain:4) Enter the account number you wish to tranfer funds from: 
+17:34 11-01-2021-INFO -com.bank.main.bankMain:4) Enter the amount you wish to transfer to account number 100000004:
+17:34 11-01-2021-INFO -com.bank.main.bankMain:Successfully transfered $14.5 to account number: 100000004
+17:34 11-01-2021-INFO -com.bank.main.bankMain:
+17:34 11-01-2021-INFO -com.bank.main.bankMain:Enter your account number to get all their transactions: 
+21:38 11-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+21:38 11-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+21:38 11-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+21:38 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+21:38 11-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+21:38 11-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+21:38 11-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+21:38 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your username:
+21:38 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your password:
+21:38 11-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Customer! 
+21:38 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+21:38 11-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1001
+21:38 11-01-2021-INFO -com.bank.main.bankMain:Customer Menu
+21:38 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+21:38 11-01-2021-INFO -com.bank.main.bankMain:1)New Customer Menu
+21:38 11-01-2021-INFO -com.bank.main.bankMain:2)View Balance of specified account
+21:38 11-01-2021-INFO -com.bank.main.bankMain:3)Withdraw
+21:38 11-01-2021-INFO -com.bank.main.bankMain:4)Deposit
+21:38 11-01-2021-INFO -com.bank.main.bankMain:5)Transfer Funds
+21:38 11-01-2021-INFO -com.bank.main.bankMain:6)View Transactions
+21:38 11-01-2021-INFO -com.bank.main.bankMain:7)Exit
+21:38 11-01-2021-INFO -com.bank.main.bankMain:4) Enter the account number you wish to deposit to: 
+21:39 11-01-2021-INFO -com.bank.main.bankMain:4) Enter the amount you wish to deposit to account number 100000000:
+21:39 11-01-2021-INFO -com.bank.main.bankMain:internal error occured contact sysadmin
+21:39 11-01-2021-INFO -com.bank.main.bankMain:Customer Menu
+21:39 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+21:39 11-01-2021-INFO -com.bank.main.bankMain:1)New Customer Menu
+21:39 11-01-2021-INFO -com.bank.main.bankMain:2)View Balance of specified account
+21:39 11-01-2021-INFO -com.bank.main.bankMain:3)Withdraw
+21:39 11-01-2021-INFO -com.bank.main.bankMain:4)Deposit
+21:39 11-01-2021-INFO -com.bank.main.bankMain:5)Transfer Funds
+21:39 11-01-2021-INFO -com.bank.main.bankMain:6)View Transactions
+21:39 11-01-2021-INFO -com.bank.main.bankMain:7)Exit
+21:43 11-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+21:43 11-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+21:43 11-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+21:43 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+21:43 11-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+21:43 11-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+21:43 11-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+21:43 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your username:
+21:43 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your password:
+21:43 11-01-2021-INFO -com.bank.main.bankMainFunctions:com.bank.exception.BusinessException: No combination of inputted username and password found
+21:43 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your username:
+21:43 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your password:
+21:43 11-01-2021-INFO -com.bank.main.bankMainFunctions:com.bank.exception.BusinessException: No combination of inputted username and password found
+21:43 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your username:
+21:43 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your password:
+21:43 11-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Customer! 
+21:43 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+21:43 11-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1001
+21:43 11-01-2021-INFO -com.bank.main.bankMain:Customer Menu
+21:43 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+21:43 11-01-2021-INFO -com.bank.main.bankMain:1)New Customer Menu
+21:43 11-01-2021-INFO -com.bank.main.bankMain:2)View Balance of specified account
+21:43 11-01-2021-INFO -com.bank.main.bankMain:3)Withdraw
+21:43 11-01-2021-INFO -com.bank.main.bankMain:4)Deposit
+21:43 11-01-2021-INFO -com.bank.main.bankMain:5)Transfer Funds
+21:43 11-01-2021-INFO -com.bank.main.bankMain:6)View Transactions
+21:43 11-01-2021-INFO -com.bank.main.bankMain:7)Exit
+21:44 11-01-2021-INFO -com.bank.main.bankMain:4) Enter the account number you wish to deposit to: 
+21:44 11-01-2021-INFO -com.bank.main.bankMain:4) Enter the amount you wish to deposit to account number 100000000:
+21:44 11-01-2021-INFO -com.bank.main.bankMain:Successfully Deposited $100.0 to account number: 100000000
+21:44 11-01-2021-INFO -com.bank.main.bankMain:
+21:44 11-01-2021-INFO -com.bank.main.bankMain:Customer Menu
+21:44 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+21:44 11-01-2021-INFO -com.bank.main.bankMain:1)New Customer Menu
+21:44 11-01-2021-INFO -com.bank.main.bankMain:2)View Balance of specified account
+21:44 11-01-2021-INFO -com.bank.main.bankMain:3)Withdraw
+21:44 11-01-2021-INFO -com.bank.main.bankMain:4)Deposit
+21:44 11-01-2021-INFO -com.bank.main.bankMain:5)Transfer Funds
+21:44 11-01-2021-INFO -com.bank.main.bankMain:6)View Transactions
+21:44 11-01-2021-INFO -com.bank.main.bankMain:7)Exit
+21:58 11-01-2021-INFO -com.bank.main.bankMainFunctions:Welcome to Jason's Bank app V1.0
+21:58 11-01-2021-INFO -com.bank.main.bankMainFunctions:Log In Menu
+21:58 11-01-2021-INFO -com.bank.main.bankMainFunctions:---------------------------------------
+21:58 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+
+21:58 11-01-2021-INFO -com.bank.main.bankMainFunctions:1) Log in as Employee
+21:58 11-01-2021-INFO -com.bank.main.bankMainFunctions:2) Log in as Customer
+21:58 11-01-2021-INFO -com.bank.main.bankMainFunctions:3) Exit bank app
+21:58 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your username:
+21:58 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your password:
+21:58 11-01-2021-INFO -com.bank.main.bankMainFunctions:com.bank.exception.BusinessException: No combination of inputted username and password found
+21:58 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your username:
+21:58 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your password:
+21:58 11-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Customer! 
+21:58 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+21:58 11-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1001
+21:58 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your username:
+21:59 11-01-2021-INFO -com.bank.main.bankMainFunctions:Please enter your password:
+21:59 11-01-2021-INFO -com.bank.main.bankMainFunctions:Successfully Logged In As Customer! 
+21:59 11-01-2021-INFO -com.bank.main.bankMainFunctions:
+21:59 11-01-2021-INFO -com.bank.main.bankMainFunctions:Your user ID is: 1001
+21:59 11-01-2021-INFO -com.bank.main.bankMain:Customer Menu
+21:59 11-01-2021-INFO -com.bank.main.bankMain:--------------------------------------------
+21:59 11-01-2021-INFO -com.bank.main.bankMain:1)New Customer Menu
+21:59 11-01-2021-INFO -com.bank.main.bankMain:2)View Balance of specified account
+21:59 11-01-2021-INFO -com.bank.main.bankMain:3)Withdraw
+21:59 11-01-2021-INFO -com.bank.main.bankMain:4)Deposit
+21:59 11-01-2021-INFO -com.bank.main.bankMain:5)Transfer Funds
+21:59 11-01-2021-INFO -com.bank.main.bankMain:6)View Transactions
+21:59 11-01-2021-INFO -com.bank.main.bankMain:7)Exit
+21:59 11-01-2021-INFO -com.bank.main.bankMain:4) Enter the account number you wish to deposit to: 

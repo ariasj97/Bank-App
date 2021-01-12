@@ -32,25 +32,7 @@ public class CustomerServiceImpl implements CustomerService {
 	}
 
 	@Override
-	public double viewBalance(int account_num) {
-		// TODO Auto-generated method stub
-		return 0;
-	}
-
-	@Override
-	public double withdrawl(int amount, int account_num) {
-		// TODO Auto-generated method stub
-		return 0;
-	}
-
-	@Override
-	public double deposit(int amount, int account_num) {
-		// TODO Auto-generated method stub
-		return 0;
-	}
-
-	@Override
-	public double transferFunds(int account_num1, int account_num2, int amount) {
+	public int newCustomer(Customer customer) throws BusinessException {
 		// TODO Auto-generated method stub
 		return 0;
 	}

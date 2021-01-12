@@ -46,7 +46,7 @@ public class LoginDAOImpl implements LoginDAO {
 	public int newCredentials(Login login) throws BusinessException {
 		int l= 0;
 		try(Connection connection = PostgresqlConnection.getConnection()){
-			String sql ="insert into public.login(user_id,username,password) values(?,?,?) ";
+			String sql ="insert into public.login(username,password) values(nextval(my_serial,?,?) ";
 			PreparedStatement preparedStatement =connection.prepareStatement(sql);
 			preparedStatement.setInt(1, login.getUser_id());
 			preparedStatement.setString(2, login.getUsername());

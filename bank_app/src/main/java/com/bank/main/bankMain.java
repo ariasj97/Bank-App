@@ -102,8 +102,8 @@ public class bankMain {
 							//New Customer Username and password
 							LoginService loginService = new LoginServiceImpl();
 							log.info("Enter the new Customer's Details");
-							log.info("User ID: ");
-							int cUserId = Integer.parseInt(sc.nextLine());
+							//log.info("User ID: ");
+							//int cUserId = Integer.parseInt(sc.nextLine());
 							
 							log.info("Username: ");
 							String username =sc.nextLine();
@@ -111,7 +111,7 @@ public class bankMain {
 							log.info("Password: ");
 							String password=sc.nextLine();
 							
-							Login login = new Login(cUserId, username, password);
+							Login login = new Login(username, password);
 							try {
 								int valid2 =loginService.newCredentials(login);
 								if (valid2!=0) {
@@ -274,17 +274,16 @@ public class bankMain {
 				log.info("1) Under construction");
 				break;
 			case 2:
+				
+				//view the balance of specified account
 				log.info("Enter a valid account number to view the balance ");
 				try {
 					int account_number = Integer.parseInt(sc.nextLine());
-					List<Account> getBalance = accountDAO.viewBalance(account_number);
-					if(getBalance!=null && getBalance.size()>0) {
-						log.info("There are "+getBalance.size()+" transactions with this account nummber in the database. Printing their details now.");
-						log.info("");
-						for(Account a:getBalance) {
-							log.info(a);
-						}
-				}
+					double getBalance = accountDAO.viewBalance(account_number);
+					
+					log.info("Printing the balance of "+ account_number+ " now.");
+					log.info("Balance: $"+getBalance);
+		
 				}catch(NumberFormatException e) {
 				log.info("Account number cannot include special character, symbols, or white spaces");
 				log.info("");
@@ -292,21 +291,93 @@ public class bankMain {
 				} catch (BusinessException e) {
 				log.info(e.getMessage());
 				}
+				
 			case 3:
-				log.info("3) Under construction");
+				
+				//withdraw from a specific account
+				double balance;
+				log.info("4) Enter the account number you wish to withdraw from: ");
+				int account_number3 = Integer.parseInt(sc.nextLine());
+				
+				log.info("4) Enter the amount you wish to withdraw from account number "+ account_number3+":");
+				double amount3 =Double.parseDouble(sc.nextLine());
+				try {
+					balance = accountDAO.viewBalance(account_number3);
+					if (balance<amount3 || amount3<0.00) {
+						log.info("Balance cannot be less than amount or the amount cannot be less than 0.00");
+						break;
+					}
+				} catch (BusinessException e1) {
+					// TODO Auto-generated catch block
+					e1.printStackTrace();
+				}
+				
+				try {
+					int valid =accountDAO.Withdraw(amount3, account_number3);
+					if (valid!=0) {
+						log.info("Successfully Withdrew $"+amount3+" from account number: "+account_number3);
+						log.info("");
+					}
+				}catch(BusinessException e) {
+					log.info(e.getMessage());
+				}
 				break;
+				
 			case 4:
-				log.info("4) Under construction");
+				
+				//deposit to specific account number
+				log.info("4) Enter the account number you wish to deposit to: ");
+				int account_number4 = Integer.parseInt(sc.nextLine());
+				
+				log.info("4) Enter the amount you wish to deposit to account number "+ account_number4+":");
+				double amount4 =Double.parseDouble(sc.nextLine());
+				
+				if (amount4<0.00) {
+					log.info("Amount cannot be less than 0.00");
+					break;
+				}
+				
+				try {
+					int valid =accountDAO.Deposit(amount4, account_number4);
+					if (valid!=0) {
+						log.info("Successfully Deposited $"+amount4+" to account number: "+account_number4);
+						log.info("");
+					}
+				}catch(BusinessException e) {
+					log.info(e.getMessage());
+				}
+				
 				break;
+				
 			case 5:
-				log.info("5) Under construction");
+				
+				log.info("4) Enter the account number you wish to tranfer funds to: ");
+				int account_number5 = Integer.parseInt(sc.nextLine());
+				
+				log.info("4) Enter the account number you wish to tranfer funds from: ");
+				int account_number51 = Integer.parseInt(sc.nextLine());
+				
+				log.info("4) Enter the amount you wish to transfer to account number "+ account_number5+":");
+				double amount5 =Double.parseDouble(sc.nextLine());
+				
+				try {
+					int valid =accountDAO.transferFunds(amount5,account_number51,account_number5 );
+					if (valid!=0) {
+						log.info("Successfully transfered $"+amount5+" to account number: "+account_number5);
+						log.info("");
+					}
+				}catch(BusinessException e) {
+					log.info(e.getMessage());
+				}
 				break;
+				
 			case 6:
 				
-				log.info("Enter a valid account number to get all their transactions: ");
+				//View Transactions 
+				log.info("Enter your account number to get all their transactions: ");
 				try {
-					int account_number = Integer.parseInt(sc.nextLine());
-					List<Transaction> getTransaction = transactionDAO.viewTransactionsByAccountNumber(account_number);
+					int account_number6 = Integer.parseInt(sc.nextLine());
+					List<Transaction> getTransaction = transactionDAO.viewTransactionsByAccountNumber(account_number6);
 					if(getTransaction!=null && getTransaction.size()>0) {
 						log.info("There are "+getTransaction.size()+" transactions with this account nummber in the database. Printing their details now.");
 						log.info("");
@@ -324,9 +395,13 @@ public class bankMain {
 				break;
 				
 			case 7:
+				
+				//Exit Menu
 				log.info("Exiting....Thank you for using jason's banking app.");
 				break;
+				
 			default:
+				
 				log.info("Invalid menu option. Input a valid menu choice.");
 				log.info("");
 				

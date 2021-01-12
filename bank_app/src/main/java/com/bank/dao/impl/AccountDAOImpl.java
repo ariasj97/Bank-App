@@ -15,32 +15,122 @@ import com.bank.model.Account;
 public class AccountDAOImpl implements AccountDAO {
 
 	@Override
-	public List<Account> viewBalance(int account_num) throws BusinessException {
-		List<Account> accountList = new ArrayList<>();
+	public double viewBalance(int account_num) throws BusinessException {
+		double balance=0.0;
+
 		try(Connection connection = PostgresqlConnection.getConnection()){
-			String sql= "select user_id, balance, account_type, account_number from public.account where account_number=?";
-			PreparedStatement preparedStatement = connection.prepareStatement(sql);
-			preparedStatement.setInt(1,account_num);
-			ResultSet resultSet= preparedStatement.executeQuery();
-			
-			while(resultSet.next()) {
-				Account account = new Account();
-				account.setUser_id(resultSet.getInt("user_id"));
-				account.setBalance(resultSet.getDouble("balance"));
-				account.setAccount_type(resultSet.getString("account_type"));
-				account.setAccount_number(account_num);
-				accountList.add(account);
+			String sql ="select balance from public.account where account_number=?"; 
+			PreparedStatement preparedStatement =connection.prepareStatement(sql);
+			preparedStatement.setDouble(1,account_num);
+				
+			ResultSet resultSet = preparedStatement.executeQuery();
+			if(resultSet.next()) {
+				balance = resultSet.getDouble("balance");
 			}
 			
-			if(accountList.size()==0) {
-				throw new BusinessException("No Account in the database with account number: "+account_num);
-			}
-		}catch (ClassNotFoundException | SQLException e) {
+		} catch (ClassNotFoundException | SQLException e) {
 			System.out.println(e);
 			throw new BusinessException("internal error occured contact sysadmin");
 		}
-		
-		return accountList;
+		return balance;
+	}
+
+	@Override
+	public int Deposit(double amount, int account_number) throws BusinessException {
+		int c =0;
+
+		try(Connection connection = PostgresqlConnection.getConnection()){
+			String sql ="update public.account set balance=balance+? where account_number=?"; 
+			PreparedStatement preparedStatement =connection.prepareStatement(sql);
+			preparedStatement.setDouble(1,amount);
+			preparedStatement.setInt(2, account_number);
+				
+			c= preparedStatement.executeUpdate();
+			
+			String sql2 ="insert into public.transaction(transaction_type,amount,account_number,date) values('deposit',?,?,current_date)"; 
+			PreparedStatement preparedStatement2 =connection.prepareStatement(sql2);
+			preparedStatement2.setDouble(1,amount);
+			preparedStatement2.setInt(2, account_number);
+			c= preparedStatement2.executeUpdate();
+			
+		} catch (ClassNotFoundException | SQLException e) {
+			System.out.println(e);
+			throw new BusinessException("internal error occured contact sysadmin");
+		}
+		return c;
+	}
+
+	@Override
+	public int Withdraw(double amount, int account_number) throws BusinessException {
+		int c =0;
+
+		try(Connection connection = PostgresqlConnection.getConnection()){
+			String sql ="update public.account set balance=balance-? where account_number=?"; 
+			PreparedStatement preparedStatement =connection.prepareStatement(sql);
+			preparedStatement.setDouble(1,amount);
+			preparedStatement.setInt(2, account_number);
+				
+			c= preparedStatement.executeUpdate();
+			
+			String sql2 ="insert into public.transaction(transaction_type,amount,account_number,date) values('withdraw',?,?,current_date)"; 
+			PreparedStatement preparedStatement2 =connection.prepareStatement(sql2);
+			preparedStatement2.setDouble(1,amount);
+			preparedStatement2.setInt(2, account_number);
+			c= preparedStatement2.executeUpdate();
+		} catch (ClassNotFoundException | SQLException e) {
+			System.out.println(e);
+			throw new BusinessException("internal error occured contact sysadmin");
+		}
+		return c;
+	}
+
+	@Override
+	public Account getBalance(int account_number) throws BusinessException {
+		Account account = null;
+
+		try(Connection connection = PostgresqlConnection.getConnection()){
+			String sql ="select balance from public.account where account_number=?"; 
+			PreparedStatement preparedStatement =connection.prepareStatement(sql);
+			preparedStatement.setDouble(1,account_number);
+				
+			ResultSet resultSet = preparedStatement.executeQuery();
+			if(resultSet.next()) {
+				account= new Account();
+				account.setAccount_number(account_number);
+				account.setBalance(resultSet.getDouble("balance"));
+			}
+			
+		} catch (ClassNotFoundException | SQLException e) {
+			System.out.println(e);
+			throw new BusinessException("internal error occured contact sysadmin");
+		}
+		return account;
+	}
+
+	@Override
+	public int transferFunds(double amount, int account_number1, int account_number2) throws BusinessException {
+		int c =0;
+
+		try(Connection connection = PostgresqlConnection.getConnection()){
+			String sql ="update public.account set balance=balance-? where account_number=?"; 
+			PreparedStatement preparedStatement =connection.prepareStatement(sql);
+			preparedStatement.setDouble(1,amount);
+			preparedStatement.setInt(2, account_number1);
+				
+			c= preparedStatement.executeUpdate();
+			
+			String sql2 ="update public.account set balance=balance+? where account_number=?"; 
+			PreparedStatement preparedStatement2 = connection.prepareStatement(sql2);
+			preparedStatement2.setDouble(1,amount);
+			preparedStatement2.setInt(2, account_number2);
+				
+			c= preparedStatement2.executeUpdate();
+			
+		} catch (ClassNotFoundException | SQLException e) {
+			System.out.println(e);
+			throw new BusinessException("internal error occured contact sysadmin");
+		}
+		return c;
 	}
 
 }
