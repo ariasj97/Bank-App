@@ -4,9 +4,7 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Date;
+
 
 import org.apache.log4j.Logger;
 
@@ -14,8 +12,6 @@ import com.bank.dao.EmployeeDAO;
 import com.bank.dao.dbutil.PostgresqlConnection;
 import com.bank.exception.BusinessException;
 import com.bank.model.Employee;
-import com.bank.model.Login;
-import com.bank.model.Transaction;
 import com.bank.model.Customer;
 
 public class EmployeeDAOImpl implements EmployeeDAO {

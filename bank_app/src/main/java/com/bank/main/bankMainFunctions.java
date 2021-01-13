@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 import org.apache.log4j.Logger;
 
-import com.bank.dao.EmployeeDAO;
 import com.bank.dao.impl.EmployeeDAOImpl;
 import com.bank.dao.impl.LoginDAOImpl;
 import com.bank.exception.BusinessException;

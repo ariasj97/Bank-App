@@ -1,6 +1,5 @@
 package com.bank.service;
 
-import com.bank.dao.LoginDAO;
 import com.bank.exception.BusinessException;
 import com.bank.model.Login;
 
