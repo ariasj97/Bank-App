@@ -1,10 +1,6 @@
 package com.bank.service.impl;
 
-import java.sql.ResultSet;
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
-import java.util.Date;
-import java.util.List;
+
 import java.util.Scanner;
 
 import org.apache.log4j.Logger;
@@ -12,9 +8,8 @@ import org.apache.log4j.Logger;
 import com.bank.dao.EmployeeDAO;
 import com.bank.dao.impl.EmployeeDAOImpl;
 import com.bank.exception.BusinessException;
-import com.bank.main.bankMain;
 import com.bank.model.Customer;
-import com.bank.model.Transaction;
+
 
 import com.bank.service.EmployeeService;
 

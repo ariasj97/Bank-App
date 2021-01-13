@@ -17,6 +17,13 @@ public class Account {
 		this.account_type = account_type;
 		this.account_number = account_number;
 	}
+	
+	public Account (int user_id, double balance, String account_type) {
+		super();
+		this.user_id = user_id;
+		this.balance = balance;
+		this.account_type = account_type;
+	}
 	public int getUser_id() {
 		return user_id;
 	}

@@ -10,8 +10,6 @@ import org.apache.log4j.Logger;
 import com.bank.dao.LoginDAO;
 import com.bank.dao.dbutil.PostgresqlConnection;
 import com.bank.exception.BusinessException;
-import com.bank.main.bankMain;
-import com.bank.model.Customer;
 import com.bank.model.Login;
 
 public class LoginDAOImpl implements LoginDAO {
@@ -46,11 +44,10 @@ public class LoginDAOImpl implements LoginDAO {
 	public int newCredentials(Login login) throws BusinessException {
 		int l= 0;
 		try(Connection connection = PostgresqlConnection.getConnection()){
-			String sql ="insert into public.login(username,password) values(nextval(my_serial,?,?) ";
+			String sql ="insert into public.login(username,password) values(?,?) ";
 			PreparedStatement preparedStatement =connection.prepareStatement(sql);
-			preparedStatement.setInt(1, login.getUser_id());
-			preparedStatement.setString(2, login.getUsername());
-			preparedStatement.setString(3, login.getPassword());
+			preparedStatement.setString(1, login.getUsername());
+			preparedStatement.setString(2, login.getPassword());
 			
 			
 			l= preparedStatement.executeUpdate();

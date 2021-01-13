@@ -1,13 +1,12 @@
 package com.bank.service.impl;
 
-import java.util.List;
 
 import org.apache.log4j.Logger;
 
 import com.bank.dao.AccountDAO;
 import com.bank.dao.impl.AccountDAOImpl;
 import com.bank.exception.BusinessException;
-import com.bank.model.Account;
+
 import com.bank.service.AccountService;
 
 public class AccountServiceImpl implements AccountService {
@@ -47,7 +46,7 @@ public class AccountServiceImpl implements AccountService {
 
 			int valid=0;
 			try {
-				if(accountDAO.Deposit(amount,account_number) !=0) {
+				if(accountDAO.Withdraw(amount,account_number) !=0) {
 					valid = 1;
 				}
 			}catch (BusinessException e) {
@@ -64,6 +63,19 @@ public class AccountServiceImpl implements AccountService {
 				valid = 1;
 			}
 		}catch (BusinessException e) {
+			log.info(e.getMessage());
+		}
+		return valid;
+	}
+
+	@Override
+	public int newAccount(int user_id, double balance,String account_type) throws BusinessException {
+		int valid = 0;
+		try {
+			if(accountDAO.newAccount(user_id, account_type, balance)!=0) {
+				valid =1;
+			}
+		}catch(BusinessException e) {
 			log.info(e.getMessage());
 		}
 		return valid;

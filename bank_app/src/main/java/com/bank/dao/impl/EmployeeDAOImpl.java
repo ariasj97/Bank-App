@@ -24,12 +24,13 @@ public class EmployeeDAOImpl implements EmployeeDAO {
 	public int newCustomer(Customer customer)throws BusinessException {
 		int c= 0;
 		try(Connection connection = PostgresqlConnection.getConnection()){
-			String sql ="insert into public.customer(user_id,name,street_address,dob,credit_score) values(nextval(user_sequence),?,?,?,?)  ";
+			String sql ="insert into public.customer(user_id,name,street_address,dob,credit_score) values(?,?,?,?,?)  ";
 			PreparedStatement preparedStatement =connection.prepareStatement(sql);
-			preparedStatement.setString(1, customer.getName());
-			preparedStatement.setString(2, customer.getStreet_address());
-			preparedStatement.setDate(3, new java.sql.Date(customer.getDob().getTime()));
-			preparedStatement.setInt(4, customer.getCredit_score());
+			preparedStatement.setInt(1,customer.getCustomer_id());
+			preparedStatement.setString(2, customer.getName());
+			preparedStatement.setString(3, customer.getStreet_address());
+			preparedStatement.setDate(4, new java.sql.Date(customer.getDob().getTime()));
+			preparedStatement.setInt(5, customer.getCredit_score());
 			
 			c= preparedStatement.executeUpdate();
 			

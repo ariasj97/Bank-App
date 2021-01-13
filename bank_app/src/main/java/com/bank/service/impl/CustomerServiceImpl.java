@@ -31,10 +31,4 @@ public class CustomerServiceImpl implements CustomerService {
 		return getCustomersName;
 	}
 
-	@Override
-	public int newCustomer(Customer customer) throws BusinessException {
-		// TODO Auto-generated method stub
-		return 0;
-	}
-
 }
