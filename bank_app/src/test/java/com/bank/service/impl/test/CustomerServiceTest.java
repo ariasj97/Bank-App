@@ -21,7 +21,7 @@ class CustomerServiceTest {
 	}
 	
 	@Test
-	public void getNameTest(){
+	public void testGetName(){
 		
 		Customer customer = new Customer();
 		customer.setName("Jason Arias");
@@ -29,7 +29,7 @@ class CustomerServiceTest {
 		assertEquals("Jason Arias",customer.getName());
 	}
 	@Test
-	public void getCredit_scoreTest(){
+	public void testGetCredit_score(){
 		
 		Customer customer = new Customer();
 		customer.setCredit_score(750);
@@ -39,7 +39,7 @@ class CustomerServiceTest {
 	}
 
 	@Test
-	public void getStreet_addressTest(){
+	public void testGetStreet_address(){
 		
 		Customer customer = new Customer();
 		customer.setStreet_address("123 Memory Lane");

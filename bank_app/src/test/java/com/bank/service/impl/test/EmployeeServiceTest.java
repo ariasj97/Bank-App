@@ -22,7 +22,7 @@ class EmployeeServiceTest {
 	}
 
 	@Test
-	public void getEmployee_idTest(){
+	public void testGetEmployee_id(){
 		
 		Employee employee = new Employee();
 		employee.setEmployee_id(1000);
@@ -32,7 +32,7 @@ class EmployeeServiceTest {
 	}
 	
 	@Test
-	public void getAccount_numberTest(){
+	public void testGetAccount_number(){
 		
 		Employee employee = new Employee();
 		employee.setAccount_number(123456788);

@@ -22,34 +22,34 @@ class AccountServiceTest {
 	}
 	
 	@Test 
-	public void viewBalanceTest()throws BusinessException{
+	public void testViewBalance()throws BusinessException{
 		double expected = 7564.42;
 		assertEquals(expected, app.viewBalance(100000002));
 	}
 	
 	@Test 
-	public void WithdrawTest()throws BusinessException{
+	public void testWithdraw()throws BusinessException{
 		double amount = 17.75;
 		int account_number = 100000001;
 		assertEquals(1, app.Withdraw(amount,account_number));
 	}
 	
 	@Test 
-	public void DepositTest()throws BusinessException{
+	public void testDeposit()throws BusinessException{
 		double amount = 17.75;
 		int account_number = 100000001;
 		assertEquals(1, app.Deposit(amount,account_number));
 	}
 	
 	@Test 
-	public void transferFundsTest()throws BusinessException{
+	public void testTransferFunds()throws BusinessException{
 		double amount = 25.00;
 		int account_number1 = 100000001;
 		int account_number2 = 100000000;
 		assertEquals(1, app.transferFunds(amount,account_number1,account_number2));
 	}
 	
-	@Test void getBalanceTest(){
+	@Test void testGetBalance(){
 		Account account = new Account();
 		account.setBalance(123.45);
 	
